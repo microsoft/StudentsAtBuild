@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to the Student Zone at Build 2020!
 
 We are so excited to provide support for you to not only learn by listening and watching, but by doing! 
