@@ -41,7 +41,7 @@ Here are some examples of the content and star speakers we have this year!
 | Introduction to Web Programming with JavaScript | Jen Looper | [Build a simple website Learn Module](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/) |
 | Microsoft MakeCode Arcade Blocks | MakeCode | [Try MakeCode Arcade Today](https://arcade.makecode.com/) |
 | Microsoft MakeCode Arcade JavaScript | MakeCode | [Try MakeCode Arcade Today](https://arcade.makecode.com/) |
-| Studying images of Earth like a NASA astronaut | Matthew Wallace | TBD |
+| Studying images of Earth like a NASA astronaut | Matthew Wallace | [Additional NASA Hands On Projects](aka.ms/20yearsinspace) |
 | DIY Tech for BFFs | [April Speight](https://twitter.com/VogueandCode) and [Chloe Condon](https://twitter.com/ChloeCondon) | [Speech Service Docs](aka.ms/speechservice), [Misty Robotics](https://www.mistyrobotics.com), [Twilio](https://twilio.com/sms) |
 | Intro genomics data analysis on the Azure cloud | Robert Lleras  | [Bioinformatics algorithms](bioinformaticsalgorithms.com), [Cromwell on Azure](https://github.com/microsoft/CromwellOnAzure),[Microsoft Genomics](https://www.microsoft.com/en-us/genomics) |
 | The Cloud is More than Just that Thing in the Sky | Heather Brevard and Michael Aldridge | TBD |
