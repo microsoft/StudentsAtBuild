@@ -22,7 +22,7 @@ Next, head over to the Community Connections and find the Student tab. Add all o
 ## How can I follow along?
 Here are some examples of the content and star speakers we have this year!
 | Topic | Speaker | Resources |
-|-------|---------|-----------|
+|:-------|:---------|:-----------|
 | Introduction to GitHub for Student Developers | Stanley Goldman |  |
 | Learn to code with Visual Studio Code | Sana Ajani | [Install VSCode](https://code.visualstudio.com) |
 | Let's Create an MS Build Social Shareboard | [Instafluff](https://www.instafluff.tv/) | TBD |
