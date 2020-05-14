@@ -27,9 +27,9 @@ For nearly two decades, students from around the world have participated in Micr
 Imagine Cup Junior 2020 is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and create an AI for Good concept that they think could make a positive impact on the world around them.  The top 3 teams (1 - 6 students per team) from each region will receive a Windows 10 device each, an Imagine Cup Junior trophy and a group mentoring session with a Microsoft Vice President.
 
 Students can learn more about AI and build their projects live via our Imagine Cup Junior Teams events:  
-Americas - May 26, 2020 9.30am – 12.30pm PDT - [Connect online here](https://aka.ms/ICJWebinarAmericas)
-EMEA - May 27, 2020 - 9.30am – 12.30pm BST - [Connect online here](https://aka.ms/ICJWebinarEMEA)
-Asia - May 29, 2020 - 12.00 – 15.00 SGT - [Connect online here](https://aka.ms/ICJWebinarAsia)
+Americas - May 26, 2020 9.30am – 12.30pm PDT - [Connect online here](https://aka.ms/ICJWebinarAmericas)  
+EMEA - May 27, 2020 - 9.30am – 12.30pm BST - [Connect online here](https://aka.ms/ICJWebinarEMEA)  
+Asia - May 29, 2020 - 12.00 – 15.00 SGT - [Connect online here](https://aka.ms/ICJWebinarAsia)  
 
 Educators can register [here](www.imaginecup.com/junior) through June 12, 2020.
 
