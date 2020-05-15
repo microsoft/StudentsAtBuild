@@ -15,32 +15,6 @@ for our student developers is 14-21 years old, though that is really just there 
 the content we create for you. So if you're a bit outside of these exact ages, you still might find this content 
 useful for your coding journey too!
 
-## What other resources does Microsoft have for students?
-### Microsoft Student Learn Ambassadors
-Microsoft Student Learn Ambassadors are a global group of on-campus ambassadors who are eager to help fellow students, lead in their local tech community, and develop technical and career skills for the future. You might find yourself organizing a hackathon to solve the world’s toughest problems, mentoring fellow students, or unlocking the next great idea with your team — it’s all up to you.
-Learn how to become a [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/). 
-
-### Imagine Cup
-For nearly two decades, students from around the world have participated in Microsoft’s global technology competition, the Imagine Cup, to bring their unique tech solutions to life. But the Imagine Cup is more than just a competition — you can work with friends (and make new ones!), network with professionals, gain new skills, make a difference in the world around you, and get the chance to win cash and cloud credits. Join the over 2 million students who have participated in the [Imagine Cup](https://imaginecup.microsoft.com/)!
-
-### Imagine Cup Jr
-Imagine Cup Junior 2020 is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and create an AI for Good concept that they think could make a positive impact on the world around them.  The top 3 teams (1 - 6 students per team) from each region will receive a Windows 10 device each, an Imagine Cup Junior trophy and a group mentoring session with a Microsoft Vice President.
-
-Students can learn more about AI and build their projects live via our Imagine Cup Junior Teams events:  
-[Americas](https://aka.ms/ICJWebinarAmericas) - May 26, 2020 9.30am – 12.30pm PDT
-
-[EMEA](https://aka.ms/ICJWebinarEMEA) - May 27, 2020 - 9.30am – 12.30pm BST
-
-[Asia](https://aka.ms/ICJWebinarAsia)  - May 29, 2020 - 12.00 – 15.00 SGT 
-
-Educators can [register](www.imaginecup.com/junior) through June 12, 2020.
-
-### Microsoft Learn for Students
-Master new concepts at your speed and on your schedule. Start here to develop practical skills through fun, interactive modules and paths. Plus, educators can get access to Microsoft classroom materials and curriculum. Check out all of the Microsoft Learn [paths and resources](http://aka.ms/learnforstudents).
-
-### Azure For Students 
-By simply verifying your student status through your school email address, and you're ready to go on Azure with $100 in credit. Build your skills in trending tech including data science, artificial intelligence (AI), machine learning, and other areas with access to professional developer tools. You can even access free learning paths and labs to take your skills to the next level. Learn more about [Azure for Students](aka.ms/azureforstudents).
-
 ## Where can I find the Student Zone Sessions?
 Make sure you register for the [Microsoft Build conference](https://register.build.microsoft.com/). 
 Next, head over to the Community Connections and find the Student tab. Make sure to add all of the sessions to your schedule builder!
@@ -78,3 +52,29 @@ Here are some examples of the content and star speakers we have this year:
 | Open the Learning Door to Computer Science with Minecraft | Masami Ishiyama | [Download Minecraft: Education Edition](https://education.minecraft.net/) |  |
 | Cognitive Services for Photo Exploration and Science Art | [Dmitry Soshnikov](https://soshnikov.com) | [Explore Photos of Your Friends](http://github.com/CloudAdvocacy/FaceStudies), [Create Your Own Cognitive Portrait](http://github.com/CloudAdvocacy/CognitivePortrait), [Test the People Blender Bot](https://soshnikov.com/museum/peopleblenderbot/) |  |
 | Build a Virtual Reality Game with JavaScript! | [Cassie Breviu](https://twitter.com/cassieview) | [VR with JavaScript Sample Code](https://aka.ms/WebVrBuild2020) |  |
+
+## What other resources does Microsoft have for students?
+### Microsoft Student Learn Ambassadors
+Microsoft Student Learn Ambassadors are a global group of on-campus ambassadors who are eager to help fellow students, lead in their local tech community, and develop technical and career skills for the future. You might find yourself organizing a hackathon to solve the world’s toughest problems, mentoring fellow students, or unlocking the next great idea with your team — it’s all up to you.
+Learn how to become a [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/). 
+
+### Imagine Cup
+For nearly two decades, students from around the world have participated in Microsoft’s global technology competition, the Imagine Cup, to bring their unique tech solutions to life. But the Imagine Cup is more than just a competition — you can work with friends (and make new ones!), network with professionals, gain new skills, make a difference in the world around you, and get the chance to win cash and cloud credits. Join the over 2 million students who have participated in the [Imagine Cup](https://imaginecup.microsoft.com/)!
+
+### Imagine Cup Jr
+Imagine Cup Junior 2020 is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and create an AI for Good concept that they think could make a positive impact on the world around them.  The top 3 teams (1 - 6 students per team) from each region will receive a Windows 10 device each, an Imagine Cup Junior trophy and a group mentoring session with a Microsoft Vice President.
+
+Students can learn more about AI and build their projects live via our Imagine Cup Junior Teams events:  
+[Americas](https://aka.ms/ICJWebinarAmericas) - May 26, 2020 9.30am – 12.30pm PDT
+
+[EMEA](https://aka.ms/ICJWebinarEMEA) - May 27, 2020 - 9.30am – 12.30pm BST
+
+[Asia](https://aka.ms/ICJWebinarAsia)  - May 29, 2020 - 12.00 – 15.00 SGT 
+
+Educators can [register](www.imaginecup.com/junior) through June 12, 2020.
+
+### Microsoft Learn for Students
+Master new concepts at your speed and on your schedule. Start here to develop practical skills through fun, interactive modules and paths. Plus, educators can get access to Microsoft classroom materials and curriculum. Check out all of the Microsoft Learn [paths and resources](http://aka.ms/learnforstudents).
+
+### Azure For Students 
+By simply verifying your student status through your school email address, and you're ready to go on Azure with $100 in credit. Build your skills in trending tech including data science, artificial intelligence (AI), machine learning, and other areas with access to professional developer tools. You can even access free learning paths and labs to take your skills to the next level. Learn more about [Azure for Students](aka.ms/azureforstudents).
