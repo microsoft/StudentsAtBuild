@@ -5,7 +5,7 @@ Explore this repository to find starter code for some of the projects and demos 
 
 ## What is Microsoft Build?
 Microsoft's professional developer conference where, you guessed it, professional developers come 
-to confer!...By that we mean where developers come to learn about how Microsoft can better support their
+to confer! By that we mean where developers come to learn about how Microsoft can better support their
 unique developer journey. There are technical sessions, opportunities to meet and talk with experts, and 
 the chance to discover and grow a technical community.
 
@@ -13,10 +13,10 @@ the chance to discover and grow a technical community.
 Each year at Microsoft Build we create a session track specifically aimed at student developers. The target age
 for our student developers is 14-21 years old, though that is really just there to guide us in scoping 
 the content we create for you. So if you're a bit outside of these exact ages, you still might find this content 
-useful for your coding journey too!
+useful for your coding journey!
 
 ## Where can I find the Student Zone Sessions?
-Make sure you register for the [Microsoft Build conference](https://register.build.microsoft.com/). 
+First please register for the [Microsoft Build conference](https://register.build.microsoft.com/). 
 Next, head over to the Community Connections and find the Student tab. Make sure to add all of the sessions to your schedule builder!
 
 ## How can I find the resources mentioned in the Student Zone sessions?
