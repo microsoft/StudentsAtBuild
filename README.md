@@ -1,16 +1,16 @@
-# Welcome to the Student Zone at Build 2020!
+# Welcome to the Student Zone at Microsoft Build 2020!
 
 We are so excited to provide support for you to not only learn by listening and watching, but by doing! 
 Explore this repository to find starter code for some of the projects and demos from the Student Zone!
 
-## What is Build?
-Build is Microsoft's professional developer conference where, you guessed it, professional developers come 
+## What is Microsoft Build?
+Microsoft's professional developer conference where, you guessed it, professional developers come 
 to confer!...By that we mean where developers come to learn about how Microsoft can better support their
 unique developer journey. There are technical sessions, opportunities to meet and talk with experts, and 
 the chance to discover and grow a technical community.
 
 ## What is the Student Zone?
-Each year at Build we create a session track specifically aimed at student developers. The target age
+Each year at Microsoft Build we create a session track specifically aimed at student developers. The target age
 for our student developers is 14-21 years old, though that is really just there to guide us in scoping 
 the content we create for you! So if you're a bit outside of these exact ages, you still might find this content 
 useful for your coding journey too!
@@ -21,7 +21,7 @@ Microsoft Student Learn Ambassadors are a global group of on-campus ambassadors 
 Learn how to become a Microsoft Student Learn Ambassador [here](https://studentambassadors.microsoft.com/). 
 
 ### Imagine Cup
-For nearly two decades, students from around the world have participated in Microsoft’s global technology competition, the Imagine Cup, to bring their unique tech solutions to life. But the Imagine Cup is more than just a competition—you can work with friends (and make new ones!), network with professionals, gain new skills, make a difference in the world around you, and have a chance to win travel, mentorship, and cash. Find out more about the Imagine Cup competition [here](http://imaginecup.com/).
+For nearly two decades, students from around the world have participated in Microsoft’s global technology competition, the Imagine Cup, to bring their unique tech solutions to life. But the Imagine Cup is more than just a competition—you can work with friends (and make new ones!), network with professionals, gain new skills,  make a difference in the world around you, and get the chance to win cash and cloud credits. To find out more: Higher education students: imaginecup.com/
 
 ### Imagine Cup Jr
 Imagine Cup Junior 2020 is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and create an AI for Good concept that they think could make a positive impact on the world around them.  The top 3 teams (1 - 6 students per team) from each region will receive a Windows 10 device each, an Imagine Cup Junior trophy and a group mentoring session with a Microsoft Vice President.
@@ -40,7 +40,7 @@ Master new concepts at your speed and on your schedule. Start here to develop pr
 By simply verifying your student status through your school email address, and you're ready to go on Azure with $100 in credit. Build your skills in trending tech including data science, artificial intelligence (AI), machine learning, and other areas with access to professional developer tools. You can even access free learning paths and labs to take your skills to the next level. Learn more about Azure for Students [here](aka.ms/azureforstudents).
 
 ## Where can I find the Student Zone Sessions?
-Make sure you register for the Build conference! You can find the [Build 2020 Registration here](https://register.build.microsoft.com/). 
+Make sure you register for the Microsoft Build conference! You can find the [Microsoft Build 2020 Registration here](https://register.build.microsoft.com/). 
 Next, head over to the Community Connections and find the Student tab. Add all of the sessions to your schedule builder!
 
 ## How can I find the resources mentioned in the Student Zone sessions?
@@ -55,7 +55,7 @@ Here are some examples of the content and star speakers we have this year!
 | Recognizing speech with a few lines of Python | [Jim Bennett](https://twitter.com/JimBobBennett) | [SpeechToText Sample Code](http://aka.ms/speechtotext) |  |
 | “Hello, World!” in 3 Languages | Shana Matthews | [Rosetta Code](http://rosettacode.org), [Repl.it](https://repl.it/) |  |
 | Intro to Rust | [Meaghan Lewis](https://www.linkedin.com/in/meaghan-lewis/) | [Getting Started with Rust](https://www.rust-lang.org/) |  |
-| Be a part of MS Build 2020 Digital history! | [Instafluff](https://www.instafluff.tv/) | TBD |  |
+| Be a part of Microsoft Build 2020 Digital history! | [Instafluff](https://www.instafluff.tv/) | TBD |  |
 | Inspired by the Next Generation of Coders | Louanne Murphy and Scott Hanselman | TBD |  |
 | Anyone Can AI! A No-Code Bot That Understands You | [Instafluff](https://www.instafluff.tv/) | TBD |  |
 | Microsoft MakeCode with Minecraft Blocks | MakeCode | [Creating a Flower Trail in Minecraft](https://github.com/salmanmkc/MakeCodeDemos/blob/master/Minecraft/Flower%20Trail/Readme.md) |  |
