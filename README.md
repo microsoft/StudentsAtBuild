@@ -1,7 +1,7 @@
 # Welcome to the Student Zone at Microsoft Build 2020!
 
 We are so excited to provide support for you to not only learn by listening and watching, but by doing! 
-Explore this repository to find starter code for some of the projects and demos from the Student Zone!
+Explore this repository to find starter code for some of the projects and demos from the Student Zone.
 
 ## What is Microsoft Build?
 Microsoft's professional developer conference where, you guessed it, professional developers come 
@@ -12,7 +12,7 @@ the chance to discover and grow a technical community.
 ## What is the Student Zone?
 Each year at Microsoft Build we create a session track specifically aimed at student developers. The target age
 for our student developers is 14-21 years old, though that is really just there to guide us in scoping 
-the content we create for you! So if you're a bit outside of these exact ages, you still might find this content 
+the content we create for you. So if you're a bit outside of these exact ages, you still might find this content 
 useful for your coding journey too!
 
 ## What other resources does Microsoft have for students?
@@ -27,24 +27,26 @@ For nearly two decades, students from around the world have participated in Micr
 Imagine Cup Junior 2020 is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and create an AI for Good concept that they think could make a positive impact on the world around them.  The top 3 teams (1 - 6 students per team) from each region will receive a Windows 10 device each, an Imagine Cup Junior trophy and a group mentoring session with a Microsoft Vice President.
 
 Students can learn more about AI and build their projects live via our Imagine Cup Junior Teams events:  
-[Americas](https://aka.ms/ICJWebinarAmericas) - May 26, 2020 9.30am – 12.30pm PDT 
+[Americas](https://aka.ms/ICJWebinarAmericas) - May 26, 2020 9.30am – 12.30pm PDT
+
 [EMEA](https://aka.ms/ICJWebinarEMEA) - May 27, 2020 - 9.30am – 12.30pm BST
+
 [Asia](https://aka.ms/ICJWebinarAsia)  - May 29, 2020 - 12.00 – 15.00 SGT 
 
 Educators can [register](www.imaginecup.com/junior) through June 12, 2020.
 
 ### Microsoft Learn for Students
-Master new concepts at your speed and on your schedule. Start here to develop practical skills through fun, interactive modules and paths. Plus, educators can get access to Microsoft classroom materials and curriculum. Find all of the Microsoft Learn [paths and resources](http://aka.ms/learnforstudents).
+Master new concepts at your speed and on your schedule. Start here to develop practical skills through fun, interactive modules and paths. Plus, educators can get access to Microsoft classroom materials and curriculum. Check out all of the Microsoft Learn [paths and resources](http://aka.ms/learnforstudents).
 
 ### Azure For Students 
 By simply verifying your student status through your school email address, and you're ready to go on Azure with $100 in credit. Build your skills in trending tech including data science, artificial intelligence (AI), machine learning, and other areas with access to professional developer tools. You can even access free learning paths and labs to take your skills to the next level. Learn more about [Azure for Students](aka.ms/azureforstudents).
 
 ## Where can I find the Student Zone Sessions?
-Make sure you register for the Microsoft Build conference! You can find the [Microsoft Build 2020 Registration here](https://register.build.microsoft.com/). 
-Next, head over to the Community Connections and find the Student tab. Add all of the sessions to your schedule builder!
+Make sure you register for the [Microsoft Build conference](https://register.build.microsoft.com/). 
+Next, head over to the Community Connections and find the Student tab. Make sure to add all of the sessions to your schedule builder!
 
 ## How can I find the resources mentioned in the Student Zone sessions?
-Here are some examples of the content and star speakers we have this year!
+Here are some examples of the content and star speakers we have this year:
 
 | Topic | Speaker | Resources | Slides |
 |-------|---------|-----------|--------|
