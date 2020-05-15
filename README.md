@@ -50,7 +50,7 @@ Here are some examples of the content and star speakers we have this year!
 |-------|---------|-----------|--------|
 | Introduction to GitHub for Student Developers | Stanley Goldman | TBD |  |
 | Learn to code with Visual Studio Code | Sana Ajani | [Install VSCode](https://code.visualstudio.com) |  |
-| Let's Create an MS Build Social Shareboard | [Instafluff](https://www.instafluff.tv/) | TBD |  |
+| Let's Create a Microsoft Build Social Shareboard | [Instafluff](https://www.instafluff.tv/) | TBD |  |
 | Taking your first steps with C# | Kendra Havens and Scott Hanselman | [Take your first steps with C# Learn Module](https://docs.microsoft.com/learn/paths/csharp-first-steps/) |  |
 | Recognizing speech with a few lines of Python | [Jim Bennett](https://twitter.com/JimBobBennett) | [SpeechToText Sample Code](http://aka.ms/speechtotext) |  |
 | “Hello, World!” in 3 Languages | Shana Matthews | [Rosetta Code](http://rosettacode.org), [Repl.it](https://repl.it/) |  |
