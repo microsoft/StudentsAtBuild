@@ -34,7 +34,7 @@ Here are some examples of the content and star speakers we have this year!
 | Be a part of MS Build 2020 Digital history! | [Instafluff](https://www.instafluff.tv/) | TBD |  |
 | Inspired by the Next Generation of Coders | Louanne Murphy and Scott Hanselman | TBD |  |
 | Anyone Can AI! A No-Code Bot That Understands You | [Instafluff](https://www.instafluff.tv/) | TBD |  |
-| Microsoft MakeCode with Minecraft Blocks | [Salman Chishti](https://twitter.com/salmanmkc) | [Chicken rain in Minecraft!](https://www.youtube.com/watch?v=8OJm9Xtu_mU) |  |
+| Microsoft MakeCode with Minecraft Blocks | [Salman Chishti](https://twitter.com/salmanmkc) | [Chicken rain in Minecraft and more Video Tutorials!](https://www.youtube.com/playlist?list=PLAqOUDXL6eC6Ca9elklRPc_doDXlNwjNj) |  |
 | Microsoft MakeCode with Minecraft Python | [Ankita Sharma](https://www.linkedin.com/in/ankita-sharma-83ab64146/) | [Try MakeCode for Minecraft Today](https://minecraft.makecode.com/) |  |
 | An Introduction to Chatbots | [Jasmine Greenaway](https://twitter.com/paladique) | [Chatbots Starter Code](aka.ms/build2020-chatbotsintro) |  |
 | First steps with Razor pages  | [Cecil Phillip](https://twitter.com/cecilphillip) | [Razor Pages in ASP.NET Core Docs](https://www.theurlist.com/razorpages-students) |  |
