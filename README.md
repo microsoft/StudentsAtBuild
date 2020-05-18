@@ -29,7 +29,7 @@ Here are some examples of the content and star speakers we have this year:
 | Let's Create a Microsoft Build Social Shareboard | [Instafluff](https://www.instafluff.tv/) | TBD |  |
 | Taking your first steps with C# | Kendra Havens and Scott Hanselman | [Take your first steps with C# Learn Module](https://docs.microsoft.com/learn/paths/csharp-first-steps/) |  |
 | Recognizing speech with a few lines of Python | [Jim Bennett](https://twitter.com/JimBobBennett) | [SpeechToText Sample Code](http://aka.ms/speechtotext) |  |
-| “Hello, World!” in 3 Languages | Shana Matthews | [Rosetta Code](http://rosettacode.org), [Repl.it](https://repl.it/) |  |
+| “Hello, World!” in 3 Languages | Shana Matthews | [Rosetta Code](http://rosettacode.org), [Take your first steps with Python Learning Path](https://docs.microsoft.com/learn/paths/python-first-steps/), [Take your first steps with C# Learning Path](https://docs.microsoft.com/learn/paths/csharp-first-steps/)  |  |
 | Intro to Rust | [Meaghan Lewis](https://www.linkedin.com/in/meaghan-lewis/) | [Getting Started with Rust](https://www.rust-lang.org/) |  |
 | Be a part of Microsoft Build 2020 Digital history! | [Instafluff](https://www.instafluff.tv/) | TBD |  |
 | Inspired by the Next Generation of Coders | Louanne Murphy and Scott Hanselman | TBD |  |
