@@ -11,7 +11,8 @@ Social Shareboard for Microsoft Build 2020 Student Zone!
 
 3. Commit and Push the changes to GitHub
 
-4. Create a Pull Request on the MSBuild Student Zone Repository [https://github.com/microsoft/StudentsAtBuild/pulls](https://github.com/microsoft/StudentsAtBuild/pulls) with your changes
+4. Create a Pull Request with your changes by pressing the **New pull request** button on your repository's GitHub page and then pressing **Create pull request**
+![Pull Request Example](pullrequest.png)
 
 5. Your note will be added to the **SHAREBOARD.md** file once reviewed and approved by the admins!
 
