@@ -59,7 +59,7 @@ mee01@minecrafteducationedition.com
 mee02@minecrafteducationedition.com  
 mee03@minecrafteducationedition.com  
 ...  
-mee99@minecrafteducationedition.com
+mee99@minecrafteducationedition.com  
 Pick one, doesn't matter
 Password for all: Build2020  
 **NOTE: THESE MAY NOT BE AVAILABLE PAST BUILD**
