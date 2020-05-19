@@ -61,8 +61,11 @@ mee03@minecrafteducationedition.com
 ...  
 mee99@minecrafteducationedition.com
 Pick one, doesn't matter
-Password for all: Build2020
+Password for all: Build2020  
 **NOTE: THESE MAY NOT BE AVAILABLE PAST BUILD**
+
+If these are no longer available, we recommend you check out the Minecraft: Education Edition Hour of Code, which is free and doesn't require a login!  
+[Try out the Minecraft: Education Edition Hour of Code today!](https://education.minecraft.net/hour-of-code)
 
 ## What other resources does Microsoft have for students?
 ### Microsoft Student Learn Ambassadors
