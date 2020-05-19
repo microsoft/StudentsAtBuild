@@ -30,7 +30,7 @@ Here are some examples of the content and star speakers we have this year:
 | Taking your first steps with C# | Kendra Havens and Scott Hanselman | [Take your first steps with C# Learn Module](https://docs.microsoft.com/learn/paths/csharp-first-steps/) |  |
 | Recognizing speech with a few lines of Python | [Jim Bennett](https://twitter.com/JimBobBennett) | [SpeechToText Sample Code](http://aka.ms/speechtotext) |  |
 | “Hello, World!” in 3 Languages | Shana Matthews | [Rosetta Code](http://rosettacode.org), [Take your first steps with Python Learning Path](https://docs.microsoft.com/learn/paths/python-first-steps/), [Take your first steps with C# Learning Path](https://docs.microsoft.com/learn/paths/csharp-first-steps/)  |  |
-| Intro to Rust | [Meaghan Lewis](https://www.linkedin.com/in/meaghan-lewis/) | [Getting Started with Rust](https://www.rust-lang.org/) |  |
+| Intro to Rust | [Meaghan Lewis](https://www.linkedin.com/in/meaghan-lewis/) | [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/index.html), [Rust Playground](https://play.rust-lang.org/), [Rust Book](https://doc.rust-lang.org/book/title-page.html) |  |
 | Be a part of Microsoft Build 2020 Digital history! | [Instafluff](https://www.instafluff.tv/) | TBD |  |
 | Inspired by the Next Generation of Coders | Louanne Murphy and Scott Hanselman | TBD |  |
 | Anyone Can AI! A No-Code Bot That Understands You | [Instafluff](https://www.instafluff.tv/) | TBD |  |
