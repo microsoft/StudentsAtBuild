@@ -24,7 +24,7 @@ Here are some examples of the content and star speakers we have this year:
 
 | Session Code | Topic | Speaker | Resources | Slides |
 |--------------|-------|---------|-----------|--------|
-| COM203 | Introduction to GitHub for Student Developers | Stanley Goldman | [GitHub Learning Lab](https://lab.github.com/), [GitHub Education](https://education.github.com/) |  |
+| COM203 | Introduction to GitHub for Student Developers | [Stanley Goldman](https://twitter.com/stan_programmer) |[GitHub Desktop](https://desktop.github.com), [GitHub Learning Lab](https://lab.github.com/), [GitHub Education](https://education.github.com/) |  |
 | COM204 | Learn to code with Visual Studio Code | [Sana Ajani](https://twitter.com/sana_ajani) | [Download VS Code](https://code.visualstudio.com), Subscribe to VS Code on [YouTube](https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w)|  |
 | COM205 | Let's Create a Microsoft Build Social Shareboard | [Instafluff](https://www.instafluff.tv/) | [Get started with the Social Shareboard](https://github.com/microsoft/StudentsAtBuild/tree/master/Social2020) |  |
 | COM206 | Taking your first steps with C# | Kendra Havens and Scott Hanselman | [Take your first steps with C# Learn Module](https://docs.microsoft.com/learn/paths/csharp-first-steps/) |  |
