@@ -53,6 +53,17 @@ Here are some examples of the content and star speakers we have this year:
 | COM231 | Cognitive Services for Photo Exploration and Science Art | [Dmitry Soshnikov](https://soshnikov.com) | [Explore Photos of Your Friends](http://github.com/CloudAdvocacy/FaceStudies), [Create Your Own Cognitive Portrait](http://github.com/CloudAdvocacy/CognitivePortrait), [Test the People Blender Bot](https://soshnikov.com/museum/peopleblenderbot/) |  |
 | COM232 | Build a Virtual Reality Game with JavaScript! | [Cassie Breviu](https://twitter.com/cassieview) | [VR with JavaScript Sample Code](https://aka.ms/WebVrBuild2020) |  |
 
+## Try out Minecraft: Education Edition with MakeCode
+You can try out the Minecraft: Education Edition with these usernames:  
+mee01@minecrafteducationedition.com  
+mee02@minecrafteducationedition.com  
+mee03@minecrafteducationedition.com  
+...  
+mee99@minecrafteducationedition.com
+Pick one, doesn't matter
+Password for all: Build2020
+**NOTE: THESE MAY NOT BE AVAILABLE PAST BUILD**
+
 ## What other resources does Microsoft have for students?
 ### Microsoft Student Learn Ambassadors
 Microsoft Student Learn Ambassadors are a global group of on-campus ambassadors who are eager to help fellow students, lead in their local tech community, and develop technical and career skills for the future. You might find yourself organizing a hackathon to solve the world’s toughest problems, mentoring fellow students, or unlocking the next great idea with your team — it’s all up to you.
