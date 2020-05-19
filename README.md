@@ -41,7 +41,7 @@ Here are some examples of the content and star speakers we have this year:
 | COM225 | Introduction to Web Programming with JavaScript | Jen Looper | [Build a simple website Learn Module](https://docs.microsoft.com/learn/modules/build-simple-website/) |  |
 | COM226A/B | Microsoft MakeCode Arcade Blocks | MakeCode | [Try MakeCode Arcade Today](https://arcade.makecode.com/) |  |
 | COM227A/B | Microsoft MakeCode Arcade JavaScript | MakeCode | [Try MakeCode Arcade Today](https://arcade.makecode.com/) |  |
-| COM228 | Studying images of Earth like a NASA astronaut | Matthew Wallace | [Additional NASA Hands On Projects](https://aka.ms/20yearsinspace) |  |
+| COM228 | Studying images of Earth like a NASA astronaut | Matthew Wallace | [Additional NASA Hands On Projects](https://aka.ms/20yearsinspace), [Try out the ISS Image ML Project](https://nasa-on-azure.azurewebsites.net/) |  |
 | COM212 | DIY Tech for BFFs | [April Speight](https://twitter.com/VogueandCode) and [Chloe Condon](https://twitter.com/ChloeCondon) | [Speech Service Docs](https://aka.ms/speechservice), [Misty Robotics](https://www.mistyrobotics.com), [Twilio](https://twilio.com/sms) |  |
 | COM215 | Intro genomics data analysis on the Azure cloud | Robert Lleras  | [Bioinformatics algorithms](bioinformaticsalgorithms.com), [Cromwell on Azure](https://github.com/microsoft/CromwellOnAzure),[Microsoft Genomics](https://www.microsoft.com/genomics) |  |
 | COM214 | The Cloud is More than Just that Thing in the Sky | Heather Brevard and Michael Aldridge | [Check out Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) |  |
