@@ -43,9 +43,9 @@ Here are some examples of the content and star speakers we have this year:
 | COM227A/B | Microsoft MakeCode Arcade JavaScript | MakeCode | [Try MakeCode Arcade Today](https://arcade.makecode.com/) |  |
 | COM228 | Studying images of Earth like a NASA astronaut | Matthew Wallace | [Additional NASA Hands On Projects](https://aka.ms/20yearsinspace), [Try out the ISS Image ML Project](https://nasa-on-azure.azurewebsites.net/) |  |
 | COM212 | DIY Tech for BFFs | [April Speight](https://twitter.com/VogueandCode) and [Chloe Condon](https://twitter.com/ChloeCondon) | [Speech Service Docs](https://aka.ms/speechservice), [Misty Robotics](https://www.mistyrobotics.com), [Twilio](https://twilio.com/sms) |  |
-| COM215 | Intro genomics data analysis on the Azure cloud | Robert Lleras  | [Bioinformatics algorithms](bioinformaticsalgorithms.com), [Cromwell on Azure](https://github.com/microsoft/CromwellOnAzure),[Microsoft Genomics](https://www.microsoft.com/genomics) |  |
+| COM215 | Intro genomics data analysis on the Azure cloud | Robert Lleras  | [Bioinformatics algorithms](https://bioinformaticsalgorithms.com), [Cromwell on Azure](https://github.com/microsoft/CromwellOnAzure),[Microsoft Genomics](https://www.microsoft.com/genomics) |  |
 | COM214 | The Cloud is More than Just that Thing in the Sky | Heather Brevard and Michael Aldridge | [Check out Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) |  |
-| COM216 | Azure Machine Learning in Action! | [Francesca Lazzeri](https://twitter.com/frlazzeri) and [Sarah Guthals](https://twitter.com/sarahguthals) | [AutoML Docs](www.aka.ms/AutoMLConfig-Class), [AutoML Classification Tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml) |  |
+| COM216 | Azure Machine Learning in Action! | [Francesca Lazzeri](https://twitter.com/frlazzeri) and [Sarah Guthals](https://twitter.com/sarahguthals) | [AutoML Docs](https://aka.ms/AutoMLConfig-Class), [AutoML Classification Tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml) |  |
 | COM218 | Can Polar Bears help predict climate change? Find out with Computer Vision! | [Justin Garrett](https://www.linkedin.com/in/justgar/) | [Polar  Bear Tracker Learn Module](http://aka.ms/PolarBearModel) |  |
 | COM210 | VSCode as an interactive learning environment | [Lee Stott](https://www.linkedin.com/in/leestott/) | [GistPad VSCode Extension](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs), [CodeTour VSCode Extension](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) |  |
 | COM229 | Introduction to Digital Identity, the foundation of digital trust | [Krsitina Yasuda](https://twitter.com/kristinayasuda) | [Azure Active Directory Docs](https://docs.microsoft.com/azure/active-directory/), [Identity and Access Learn Module](https://docs.microsoft.com/learn/paths/manage-identity-and-access/) |  |
@@ -71,7 +71,7 @@ Students can learn more about AI and build their projects live via our Imagine C
 
 [Asia](https://aka.ms/ICJWebinarAsia)  - May 29, 2020 - 12.00 – 15.00 SGT 
 
-Educators can [register](www.imaginecup.com/junior) through June 12, 2020.
+Educators can [register](https://www.imaginecup.com/junior) through June 12, 2020.
 
 ### Microsoft Learn for Students
 Master new concepts at your speed and on your schedule. Start here to develop practical skills through fun, interactive modules and paths. Plus, educators can get access to Microsoft classroom materials and curriculum. Check out all of the Microsoft Learn [paths and resources](http://aka.ms/learnforstudents).
