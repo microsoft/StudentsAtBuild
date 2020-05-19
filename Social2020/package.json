@@ -1,0 +1,29 @@
+{
+  "name": "msbuildsocialshareboard",
+  "version": "1.0.0",
+  "description": "Social Shareboard for MS Build 2020 - Be a Part of MS Build 2020 Student Zone History!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/MSBuildSocialShareboard.git"
+  },
+  "keywords": [
+    "MSBuild",
+    "Microsoft",
+    "Build",
+    "Instafluff"
+  ],
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/MSBuildSocialShareboard/issues"
+  },
+  "homepage": "https://github.com/instafluff/MSBuildSocialShareboard#readme",
+  "dependencies": {
+    "markdown-it": "^10.0.0",
+    "webwebweb": "^1.3.2"
+  }
+}
