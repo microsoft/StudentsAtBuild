@@ -1,9 +1,9 @@
-# Instafluff was at MS Build 2020
+# Santiago Munoz (Riverminds Cia. Ltda.) was at MS Build 2020
 
-> Student Zone HYPE! Have a great MS Build and Stay Fluffy, everyone!
+> Great experience to be part of MS Build 2020!
 
-Join me for more fun, live-coding, and bot-building on my [Twitch channel](https://twitch.tv/instafluff) Wed-Sat (WTFS for short!)
+Join to Azure Platform, and you will be the best Solution Architect!!!
 
 ```js
-console.log( "i love lasagna!" );
+console.log( "Azure Lover, Coffee Lover" );
 ```
