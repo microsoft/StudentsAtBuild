@@ -23,5 +23,5 @@ YES! Having a project idea and then searching around for tutorials and resources
 Yes! I recommend checking out one of the sessions with Scott Hanselman and Louanne Murphy:  
 - [Inspiring Next Gen Coders with Make Code at Wed 2:00 - 2:30am PT](https://mybuild.microsoft.com/sessions/8f75471f-6f84-4b92-a820-d90ade3452a0?source=sessions)
 - [Inspiring Next Gen Coders with Make Code at Wed 3:45 - 4:15pm PT](https://mybuild.microsoft.com/sessions/d45b7310-bd32-4598-b2a3-be47e8a0d2e4?source=sessions)
-- [Inspiring Next Gen Coders with Make Code at Thu 6:30 - 7:00am PT](https://mybuild.microsoft.com/sessions/a1638103-16a8-4059-90ac-54c7e0dda8a2?source=sessions)
+- [Inspiring Next Gen Coders with Make Code at Thu 6:30 - 7:00am PT](https://mybuild.microsoft.com/sessions/a1638103-16a8-4059-90ac-54c7e0dda8a2?source=sessions)  
 Where they will show you a bit of [MakeCode](https://www.microsoft.com/en-us/makecode?rtc=1) with some IoT devices!
