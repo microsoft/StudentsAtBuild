@@ -7,5 +7,3 @@ Join me for more fun, live-coding, and bot-building on my [Twitch channel](https
 ```js
 console.log( "i love lasagna!" );
 ```
-
-DODO CODE IS: 9D0J1
