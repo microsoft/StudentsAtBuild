@@ -2,4 +2,4 @@
 
 > @wilmol + @jidevops
 
-Any text here in Markdown format
+Thank you for the amazing event!
