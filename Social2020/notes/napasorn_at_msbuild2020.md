@@ -2,6 +2,3 @@
 
 > Hi! I'm gald to be here. I have a lot of fun. Thank you for creating the event:)
 
-'''python
-print("Im at MS Build2020")
-'''
