@@ -39,7 +39,7 @@ Here are some examples of the content and star speakers we have this year:
 | COM223 | An Introduction to Chatbots | [Jasmine Greenaway](https://twitter.com/paladique) | [Chatbots Starter Code](https://aka.ms/build2020-chatbotsintro) |  |
 | COM224 | First steps with Razor pages  | [Cecil Phillip](https://twitter.com/cecilphillip) | [Razor Pages in ASP.NET Core Docs](https://www.theurlist.com/razorpages-students) |  |
 | COM225 | Introduction to Web Programming with JavaScript | Jen Looper | [Build a simple website Learn Module](https://docs.microsoft.com/learn/modules/build-simple-website/) |  |
-| COM226A/B | Microsoft MakeCode Arcade Blocks | MakeCode | [Try MakeCode Arcade Today](https://arcade.makecode.com/) |  |
+| COM226A/B | Microsoft MakeCode Arcade Blocks | MakeCode | [Try MakeCode Arcade Today](https://arcade.makecode.com/) | [226A Slides](https://slidesandresources.blob.core.windows.net/slides/COM226A_MakeCode_Arcade_Blocks_PeliJoey_FINAL.pdf) [226B Slides](https://slidesandresources.blob.core.windows.net/slides/COM226B_MakeCode_Arcade_Blocks_Sabiha_FINAL2.pdf) |
 | COM227A/B | Microsoft MakeCode Arcade JavaScript | MakeCode | [Try MakeCode Arcade Today](https://arcade.makecode.com/) |  |
 | COM228 | Studying images of Earth like a NASA astronaut | Matthew Wallace | [Additional NASA Hands On Projects](https://aka.ms/20yearsinspace), [Try out the ISS Image ML Project](https://nasa-on-azure.azurewebsites.net/) |  |
 | COM212 | DIY Tech for BFFs | [April Speight](https://twitter.com/VogueandCode) and [Chloe Condon](https://twitter.com/ChloeCondon) | [Speech Service Docs](https://aka.ms/speechservice), [Misty Robotics](https://www.mistyrobotics.com), [Twilio](https://twilio.com/sms) |  |
