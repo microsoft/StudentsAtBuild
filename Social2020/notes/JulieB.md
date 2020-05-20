@@ -1,4 +1,4 @@
-# howdy!
+# Howdy!
 
 > Greetings from Plano, Texas!
 
