@@ -5,7 +5,9 @@
 I'm just a 1st year student in high school (my country South Korea has different school system, just search for it) and this is my first MS Build! Hooray!
 
 MY DODO CODE IS: LDXWC
+
 ALSO MY NS FRIEND CODE: SW-2277-2897-7877
 
 proudly written in firefox 
+
 btw i use arch linux
