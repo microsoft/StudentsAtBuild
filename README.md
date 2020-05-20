@@ -36,7 +36,7 @@ Here are some examples of the content and star speakers we have this year:
 | INT156A/B/C | Anyone Can AI! A No-Code Bot That Understands You | [Instafluff](https://www.instafluff.tv/) | [Get started with the Social Shareboard](https://github.com/microsoft/StudentsAtBuild/tree/master/Social2020) |  |
 | COM201A/B | Microsoft MakeCode with Minecraft Blocks | [Salman Chishti](https://twitter.com/salmanmkc) | [VIDEO TUTORIALS: Chicken rain in Minecraft, Flower Trails and (soon) more!](https://www.youtube.com/watch?v=8OJm9Xtu_mU&list=PLAqOUDXL6eC6Ca9elklRPc_doDXlNwjNj) |  |
 | COM202A/B | Microsoft MakeCode with Minecraft Python | [Ankita Sharma](https://www.linkedin.com/in/ankita-sharma-83ab64146/) | [Try MakeCode for Minecraft Today](https://minecraft.makecode.com/) |  |
-| COM223 | An Introduction to Chatbots | [Jasmine Greenaway](https://twitter.com/paladique) | [Chatbots Starter Code](https://aka.ms/build2020-chatbotsintro) |  |
+| COM223 | An Introduction to Chatbots | [Jasmine Greenaway](https://twitter.com/paladique) | [Chatbots Starter Code](https://aka.ms/build2020-chatbotsintro) | [Slides](https://slidesandresources.blob.core.windows.net/slides/COM223_JasmineGreenaway_FINAL.pdf) |
 | COM224 | First steps with Razor pages  | [Cecil Phillip](https://twitter.com/cecilphillip) | [Razor Pages in ASP.NET Core Docs](https://www.theurlist.com/razorpages-students) |  |
 | COM225 | Introduction to Web Programming with JavaScript | Jen Looper | [Build a simple website Learn Module](https://docs.microsoft.com/learn/modules/build-simple-website/) |  |
 | COM226A/B | Microsoft MakeCode Arcade Blocks | MakeCode | [Try MakeCode Arcade Today](https://arcade.makecode.com/) |  |
