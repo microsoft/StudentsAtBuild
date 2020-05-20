@@ -5,7 +5,5 @@
 Join me for more fun, live-coding, and bot-building on my [Twitch channel](https://twitch.tv/instafluff) Wed-Sat (WTFS for short!)
 
 ```js
-console.log( "i love lasagna!" );
+console.log( "I love Pasta!" );
 ```
-
-DODO CODE IS: 9D0J1
