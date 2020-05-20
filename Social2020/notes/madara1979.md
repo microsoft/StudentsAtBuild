@@ -2,7 +2,6 @@
 
 > So excited for #MSBuild
 
-Probably the only online footprint I'll ever have online lol
-
+Probably the only intentional online footprint of my real name appearing anywhere.
 
 Hello world!
