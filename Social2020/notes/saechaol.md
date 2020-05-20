@@ -8,6 +8,6 @@ It was an incredible experience to get to learn so much about Microsoft's cloud 
 console.log("Hello world!");
 ```
 
-to a new life as a professional computer scientist. Connect with me @ https://linkedin.com/in/lucassaechao
+to a new life as a professional computer scientist. Connect with me @[LinkedIn](https://linkedin.com/in/lucassaechao)
 
 Lucas Saechao
