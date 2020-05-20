@@ -4,4 +4,6 @@
 
 ### Follow me on [Twitter](https://twitter.com/edfloreshz) and join my [Discord](https://discord.gg/p9SMcAh) server 🙂
 
-`println!(“Build 2020 rocks!”);`
+```rust 
+println!(“Build 2020 rocks!”);
+```
