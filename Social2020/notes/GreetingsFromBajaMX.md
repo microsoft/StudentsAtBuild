@@ -5,7 +5,7 @@ Microsoft Build 2020 - Be a part of MS Build 2020 Digital Story!
 *Date:* **20/05/2020**  
 *Time:* **02:12 A.M. (GMT-6)**  
 *Place:* **Baja, MX**  
-*Filename:* **MSB2020StudentZoneJAVALOSBajaMX.md**  
+*Filename:* **GreetingsFromBajaMX.md**  
   
 ***Thank you very much for organizing such a great and incredible event! All the love and good vibes from Baja, MX! Ossu!***  
   
