@@ -22,7 +22,7 @@ Next, head over to the Community Connections and find the Student tab. Make sure
 ## How can I find the resources mentioned in the Student Zone sessions?
 Here are some examples of the content and star speakers we have this year:
 
-| Session Code | Topic | Speaker | Resources | Slides | Video on Demand (Coming Soon) |
+| Session Code | Topic | Speaker | Resources | Slides (Coming Soon) | Video on Demand (Coming Soon) |
 |--------------|-------|---------|-----------|--------|-------------------------------|
 | COM203 | Introduction to GitHub for Student Developers | [Stanley Goldman](https://twitter.com/stan_programmer) | [GitHub Learning Lab](https://lab.github.com/), [GitHub Education](https://education.github.com/), [GitHub Desktop](https://desktop.github.com/), [Download VS Code](https://code.visualstudio.com/), [VS Code Markdown visualization](https://code.visualstudio.com/Docs/languages/markdown), [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/), [The Github Flow](https://guides.github.com/introduction/flow/) |  |  |
 | COM204 | Learn to code with Visual Studio Code | [Sana Ajani](https://twitter.com/sana_ajani) | [Download VS Code](https://code.visualstudio.com), Subscribe to VS Code on [YouTube](https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w)|  |  |
