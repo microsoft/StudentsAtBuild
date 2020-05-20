@@ -1,4 +1,4 @@
-# Sergey Zakhartchenko
+# Sergey Zakharchenko
 
 > Дубрава 34
 
