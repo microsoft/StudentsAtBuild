@@ -70,6 +70,8 @@ mee03@minecrafteducationedition.com
 mee99@minecrafteducationedition.com  
 Pick one, doesn't matter
 Password for all: Build2020  
+  
+**NOTE: THESE USER ACCOUNTS MAY NOT BE AVAILABLE PAST BUILD. HOWEVER, ANY STUDENT WITH A M365 SCHOOLS ACCOUNT WILL BE ABLE TO LOG INTO MINECRAFT EDUCATION**
 
 ### Minecraft Education 
 
