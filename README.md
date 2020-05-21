@@ -5,18 +5,18 @@ Explore this repository to find starter code for some of the projects and demos 
 
 ## What is Microsoft Build?
 Microsoft's professional developer conference where, you guessed it, professional developers come 
-to confer! By that we mean where developers come to learn about how Microsoft can better support their
+to confer! By that, we mean where developers come to learn about how Microsoft can better support their
 unique developer journey. There are technical sessions, opportunities to meet and talk with experts, and 
 the chance to discover and grow a technical community.
 
 ## What is the Student Zone?
 Each year at Microsoft Build we create a session track specifically aimed at student developers. The target age
-for our student developers is 14-21 years old, though that is really just there to guide us in scoping 
+for our **student** developers is 14-21 years old, though that is really just there to guide us in scoping 
 the content we create for you. So if you're a bit outside of these exact ages, you still might find this content 
-useful for your coding journey!
+useful for your coding journey! This may be perfect for you if you're a career switcher or a even just a beginner!
 
 ## Where can I find the Student Zone Sessions?
-First please register for the [Microsoft Build conference](https://register.build.microsoft.com/). 
+First, please register for the [Microsoft Build conference](https://register.build.microsoft.com/). 
 Next, head over to the Community Connections and find the Student tab. Make sure to add all of the sessions to your schedule builder!
 
 ## How can I find the resources mentioned in the Student Zone sessions?
@@ -58,7 +58,7 @@ Here are some examples of the content and star speakers we have this year:
 
 ## Try out Minecraft: Education Edition with MakeCode
 
-You will need an Office 365 Education account to log in to the full version of [Minecraft: Education Edition](https://education.minecraft.net/). If you do not have a license, you can still use Minecraft: Education Edition with a limited number of logins that we've provide below.
+You will need an Office 365 Education account to log in to the full version of [Minecraft: Education Edition](https://education.minecraft.net/). If you do not have a license, you can still use Minecraft: Education Edition with a limited number of logins that we've provided below.
 
 To get started, enter your [school email address on the Minecraft: Education Edition website](https://education.minecraft.net/get-started/) to confirm that your school account is eligible for full access or even a free trial. Then, download the game and follow the sign in prompts from within the game, using your same school credentials.  
 
@@ -79,7 +79,7 @@ Password for all: Build2020
 
 If these are no longer available, we recommend you check out the [Minecraft: Education Edition Hour of Code](https://education.minecraft.net/lessons/minecraft-hour-of-code/), which is free and doesn't require a login!  
 
-### Minecraft Education 
+### Minecraft: Education Ediction
 
 -You can find more details of [Minecraft: Education Edition](https://education.minecraft.net/)
 -Install [Minecraft: Education Edition](https://education.minecraft.net/get-started/)
@@ -91,22 +91,27 @@ If these are no longer available, we recommend you check out the [Minecraft: Edu
 
 The educational content lets players explore the International Space Station, through a partnership with NASA, as well as learn to code with a robot, visit Washington DC landmarks, find and build 3D fractals, learn what it’s like to be a marine biologist and more. This is launching for free download today and will be available through June 30, 2020. [Minecraft FREE Educational Session](https://news.microsoft.com/en-gb/2020/03/25/minecraft-launches-free-educational-content-for-children/)
 
+[Salman](https://twitter.com/salmanmkc) is also working on Minecraft: Education Edition content with MakeCode and will be updating the playlist [here](https://www.youtube.com/watch?v=8OJm9Xtu_mU&list=PLAqOUDXL6eC6Ca9elklRPc_doDXlNwjNj).
 
 [Try out the Minecraft: Education Edition Hour of Code today!](https://education.minecraft.net/hour-of-code)
 
 ## What other resources does Microsoft have for students?
 ### Microsoft Student Learn Ambassadors
-Microsoft Student Learn Ambassadors are a global group of on-campus ambassadors who are eager to help fellow students, lead in their local tech community, and develop technical and career skills for the future. You might find yourself organizing a hackathon to solve the world’s toughest problems, mentoring fellow students, or unlocking the next great idea with your team — it’s all up to you.
-Learn how to become a [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/). 
+Microsoft Student Learn Ambassadors are a global group of on-campus ambassadors who are eager to help fellow students who lead in their local tech community, and develop technical and career skills for the future. You might find yourself organizing a hackathon to solve the world’s toughest problems, mentoring fellow students, or unlocking the next great idea with your team — it’s all up to you. If you are a student at university who is actively looking to teach others and empower your community, then do sign up!
+Learn how to become a [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/).
+A video to [help guide you to apply to be a Microsoft Student Learn Ambassador](http://bit.ly/microsoftlearnstudentambassadors).
 
 #### MSPInspire
 A group of students from the Microsoft Student Partner community including two speakers here ([Salman](https://twitter.com/salmanmkc) and [Sabiha](https://www.linkedin.com/in/sabiha-shaik/)) organise and run weekly events on the MSPInspire YouTube channel which gets students invovled with new technologies, trying to inspire them to become learners and grow their skillsets.
 
 Some of the events they run include talks with Imagine Cup finalists, MVPs, Microsoft employees, etc.
 [Check out MSPInspire here](http://mspinspire.com)
+There's also a discord server here: https://aka.ms/MSPInspireChat
 
 ### Imagine Cup
 For nearly two decades, students from around the world have participated in Microsoft’s global technology competition, the Imagine Cup, to bring their unique tech solutions to life. But the Imagine Cup is more than just a competition — you can work with friends (and make new ones!), network with professionals, gain new skills, make a difference in the world around you, and get the chance to win cash and cloud credits. Join the over 2 million students who have participated in the [Imagine Cup](https://imaginecup.microsoft.com/)!
+
+Here's a [podcast with the Program Manager of the Imagine Cup, the 2018 world champion and a finalist from 2020](https://www.youtube.com/watch?v=bf46_35E2KM).
 
 ### Imagine Cup Jr
 Imagine Cup Junior 2020 is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and create an AI for Good concept that they think could make a positive impact on the world around them.  The top 3 teams (1 - 6 students per team) from each region will receive a Windows 10 device each, an Imagine Cup Junior trophy and a group mentoring session with a Microsoft Vice President.
