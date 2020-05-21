@@ -64,7 +64,8 @@ To get started, enter your [school email address on the Minecraft: Education Edi
 Additional support can be found on the [Help page for Minecraft: Education Edition](https://minecrafteducation.zendesk.com/). 
 
 
-### You can try out the Minecraft: Education Edition with these usernames:  
+### Demo accounts for Minecraft: Education Edition
+If you do not have access to Minecraft: Education Edition through your school, you can try it out with these limited supply and limited time usernames:  
 mee01@minecrafteducationedition.com  
 mee02@minecrafteducationedition.com  
 mee03@minecrafteducationedition.com  
