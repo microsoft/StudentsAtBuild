@@ -74,7 +74,7 @@ Password for all: Build2020
 ### Minecraft Education 
 
 -You can find more details of [Minecraft: Education Edition](https://education.minecraft.net/)
--Install [Minecraft Education](https://education.minecraft.net/get-started/)
+-Install [Minecraft: Education Edition](https://education.minecraft.net/get-started/)
 
 Minecraft has released a series of free educational sessions that parents can download to help children learn at home during COVID-19
 
