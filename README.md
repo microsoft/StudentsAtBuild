@@ -39,9 +39,10 @@ Here are some examples of the content and star speakers we have this year:
 | COM223 | An Introduction to Chatbots | [Jasmine Greenaway](https://twitter.com/paladique) | [Chatbots Starter Code](https://aka.ms/build2020-chatbotsintro) |  |  |
 | COM224 | First steps with Razor pages  | [Cecil Phillip](https://twitter.com/cecilphillip) | [Razor Pages in ASP.NET Core Docs](https://www.theurlist.com/razorpages-students) |  |  |
 | COM225 | Introduction to Web Programming with JavaScript | Jen Looper | [Build a simple website Learn Module](https://docs.microsoft.com/learn/modules/build-simple-website/) |  |  |
-| COM226A/B | Microsoft MakeCode Arcade Blocks | MakeCode | [Try MakeCode Arcade Today](https://arcade.makecode.com/) |  |  |
+| COM226A/B | Microsoft MakeCode Arcade Blocks | [Sabiha Shaik](https://www.linkedin.com/in/sabiha-shaik/) | [Try MakeCode Arcade Today](https://arcade.makecode.com/) |  |  |
 | COM227A/B | Microsoft MakeCode Arcade JavaScript | [Sambhav Bhurtel](https://twitter.com/sambhavbhurtel) | [Try MakeCode Arcade Today](https://arcade.makecode.com/), [MakeCode Arcade JavaScript Basic Tutorial - Space Game (Part 1)](https://www.youtube.com/watch?v=WadZAb4bP7w), [MakeCode Arcade JavaScript Basic Tutorial - Space Game (Part 2)](https://www.youtube.com/watch?v=3XRJRWkt2TQ) |  |  |
 | COM228 | Studying images of Earth like a NASA astronaut | [Sarah Guthals](https://twitter.com/sarahguthals) | [Additional NASA Hands On Projects](https://aka.ms/20yearsinspace), [Try out the ISS Image ML Project](https://nasa-on-azure.azurewebsites.net/) |  |  |
+| COM211 | What it’s like to be a Microsoft intern | [Michael Bervell](https://twitter.com/MichaelBervell), LaJay Norvell, Patrick Lyons, Moderator: Sacha Nunn |  |  |  |
 | COM212 | DIY Tech for BFFs | [April Speight](https://twitter.com/VogueandCode) and [Chloe Condon](https://twitter.com/ChloeCondon) | [Speech Service Docs](https://aka.ms/speechservice), [Misty Robotics](https://www.mistyrobotics.com), [Twilio](https://twilio.com/sms) |  |  |
 | COM215 | Intro genomics data analysis on the Azure cloud | Robert Lleras  | [Bioinformatics algorithms](https://bioinformaticsalgorithms.com), [Cromwell on Azure](https://github.com/microsoft/CromwellOnAzure),[Microsoft Genomics](https://www.microsoft.com/genomics) |  |  |
 | COM214 | The Cloud is More than Just that Thing in the Sky | Heather Brevard and Michael Aldridge | [Check out Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) |  |  |
@@ -56,7 +57,16 @@ Here are some examples of the content and star speakers we have this year:
 | COM235 | Thanks for joining the Student Zone at Build | [Chloe Condon](https://twitter.com/ChloeCondon), [Crazy Aunt Lindsey](https://www.thefablab.com/), [Liam McGregor](www.linkedin.com/in/liamjmcgregor/), [Morgan Dukes](https://www.linkedin.com/in/morgandukes3/), [Swetha Prabakaran](twitter.com/swethapraba) | [Microsoft the Musical](http://aka.ms/musical) |  |  |
 
 ## Try out Minecraft: Education Edition with MakeCode
-You can try out the Minecraft: Education Edition with these usernames:  
+
+You will need an Office 365 Education account to log in to the full version of [Minecraft: Education Edition](https://education.minecraft.net/). If you do not have a license, you can still use Minecraft: Education Edition with a limited number of logins that we've provide below.
+
+To get started, enter your [school email address on the Minecraft: Education Edition website](https://education.minecraft.net/get-started/) to confirm that your school account is eligible for full access or even a free trial. Then, download the game and follow the sign in prompts from within the game, using your same school credentials.  
+
+Additional support can be found on the [Help page for Minecraft: Education Edition](https://minecrafteducation.zendesk.com/). 
+
+
+### Demo accounts for Minecraft: Education Edition
+If you do not have access to Minecraft: Education Edition through your school, you can try it out with these limited supply and limited time usernames:  
 mee01@minecrafteducationedition.com  
 mee02@minecrafteducationedition.com  
 mee03@minecrafteducationedition.com  
@@ -64,15 +74,36 @@ mee03@minecrafteducationedition.com
 mee99@minecrafteducationedition.com  
 Pick one, doesn't matter
 Password for all: Build2020  
-**NOTE: THESE MAY NOT BE AVAILABLE PAST BUILD**
+  
+**NOTE: THESE USER ACCOUNTS MAY NOT BE AVAILABLE PAST BUILD. HOWEVER, ANY STUDENT WITH A M365 SCHOOLS ACCOUNT WILL BE ABLE TO LOG INTO MINECRAFT: EDUCATION EDITION**  
 
-If these are no longer available, we recommend you check out the Minecraft: Education Edition Hour of Code, which is free and doesn't require a login!  
+If these are no longer available, we recommend you check out the [Minecraft: Education Edition Hour of Code](https://education.minecraft.net/lessons/minecraft-hour-of-code/), which is free and doesn't require a login!  
+
+### Minecraft Education 
+
+-You can find more details of [Minecraft: Education Edition](https://education.minecraft.net/)
+-Install [Minecraft: Education Edition](https://education.minecraft.net/get-started/)
+  
+### Educational Content on Minecraft
+[Minecraft](https://www.minecraft.net/) has released a series of free educational sessions that parents can download to help children learn at home during COVID-19.
+
+[Minecraft Marketplace](https://www.minecraft.net/marketplace), which features items and add-ons that people can use in the popular block-building game, has a new Education section.
+
+The educational content lets players explore the International Space Station, through a partnership with NASA, as well as learn to code with a robot, visit Washington DC landmarks, find and build 3D fractals, learn what it’s like to be a marine biologist and more. This is launching for free download today and will be available through June 30, 2020. [Minecraft FREE Educational Session](https://news.microsoft.com/en-gb/2020/03/25/minecraft-launches-free-educational-content-for-children/)
+
+
 [Try out the Minecraft: Education Edition Hour of Code today!](https://education.minecraft.net/hour-of-code)
 
 ## What other resources does Microsoft have for students?
 ### Microsoft Student Learn Ambassadors
 Microsoft Student Learn Ambassadors are a global group of on-campus ambassadors who are eager to help fellow students, lead in their local tech community, and develop technical and career skills for the future. You might find yourself organizing a hackathon to solve the world’s toughest problems, mentoring fellow students, or unlocking the next great idea with your team — it’s all up to you.
 Learn how to become a [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/). 
+
+#### MSPInspire
+A group of students from the Microsoft Student Partner community including two speakers here ([Salman](https://twitter.com/salmanmkc) and [Sabiha](https://www.linkedin.com/in/sabiha-shaik/)) organise and run weekly events on the MSPInspire YouTube channel which gets students invovled with new technologies, trying to inspire them to become learners and grow their skillsets.
+
+Some of the events they run include talks with Imagine Cup finalists, MVPs, Microsoft employees, etc.
+[Check out MSPInspire here](http://mspinspire.com)
 
 ### Imagine Cup
 For nearly two decades, students from around the world have participated in Microsoft’s global technology competition, the Imagine Cup, to bring their unique tech solutions to life. But the Imagine Cup is more than just a competition — you can work with friends (and make new ones!), network with professionals, gain new skills, make a difference in the world around you, and get the chance to win cash and cloud credits. Join the over 2 million students who have participated in the [Imagine Cup](https://imaginecup.microsoft.com/)!
