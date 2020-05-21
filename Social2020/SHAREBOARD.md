@@ -7,6 +7,22 @@ console.log('Fais ce que dois, advienne, que pourra');
 > [SergeiZheleznov](https://github.com/SergeiZheleznov) was here
 
 ---
+# Tan Wei Liang Nathanael was at Microsoft Build 2020!
+
+> Really enjoying the sessions a lot, with the humour, the light-hearted tone and the engaging speakers and moderators.
+
+COVID-19 has brought us a lot of inconvenience but I tend to look on the brighter side of the picture, which is how Microsoft Build 2020 went digital and that means it's easily accessible for people anywhere and at anytime!
+
+I wouldn't want to fly everywhere just to attend seminars when I can attend as much as I like from the comfort of my own home!
+
+Feel free to connect with me on LinkedIn at https://www.linkedin.com/in/NatIsrael972
+
+I am public transport oriented but have an adequate amount of IT background :)
+
+```js
+console.log( "Towards public transport excellence!" );
+```
+---
 # Anita was at MS Build 2020
 
 > Exited to be at my first Build!
@@ -28,6 +44,35 @@ print('MS Build is Awesome')
 Thank you MS Build and Student zone 
 
 ---
+# Aditya Oberai from India here 🙌
+
+> Student Zone at MSBuild is legit epic 🔥
+
+>Lots of love from the Microsoft Student Partner community ❤
+
+
+---
+# Ajith P Venugopal
+
+> Now, part of the MS Build 2020 Digital history!
+
+## My version of Hello, World!
+```c
+int main(void)
+{
+    printf("@sguthals and @instafluff are awesome!");
+    return 0;
+}    
+```
+
+---
+# Akshay was at Microsoft Build 2020!
+
+> I ❤ Microsoft and I am happy to be a part of Microsoft
+
+Its been a year at Microsoft and it has been the best year till date ✌
+
+---
 # Andrew LaPrade
 
 Hello to Students at Microsoft Build 2020 from a current Microsoft intern! I love to see Microsoft making sessions for students to start coding! I'm learning so much from Build!
@@ -38,6 +83,15 @@ Hello to Students at Microsoft Build 2020 from a current Microsoft intern! I lov
 > Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine. (Roy T. Bennett)
 
 Hello everyone, wish you all the best.
+
+---
+# MS Build Digitl Event 2020
+
+> I attended MS Build 2020. Thanks instafluff and sguthals for awesome session!
+
+```
+console.log("See you next time!");
+```
 
 ---
 # Andrew Nakamura was at MS Build 2020
@@ -103,6 +157,14 @@ console.log( "Enjoying every moment at MS Build 2020!!" );
 Hi. This is actually my first time being on **MSBuild**.
 
 ---
+# Benedikt has joined the MS Build 2020!
+
+> Tell me and I forget, teach me and I may remember, involve me and I learn.
+
+That's what Benjamin Franklin said ones.
+Hence, many thanks for not only teaching us a lot but for involing the whole student community in such great ways.
+
+---
 
 # Ben Sengupta at MS Build 2020
 
@@ -132,6 +194,25 @@ Love to spend some time with you guys.
 Hi from Jerusalem, Israel
 
 ---
+# Hattomo was at MS Build 2020
+
+Hello from Japan.  
+I enjoy MSBuild2020.   
+Happy coding. 🎉  
+  
+
+```dart
+// Build2020
+print( 'I ❤ MSBuild2020!' );
+
+if(StartProgramming){
+  Run(Windows Terminal(WSL2));
+  Run(VSCode);
+}
+```
+Thank you
+
+---
 # Greetings from Dmitriy Vlasenko aka DmiV from Munich
 
 All this text Im writing directly from iPad with splitted screen for MS Teams and browser with GitHub.
@@ -141,9 +222,54 @@ Super awesome, super techy, super honest, super transparent! Super build! Go MS,
 > Sory for possible typos))
 
 ---
+# 20.05.2020 - Chris Lloyd-Jones
+I'd hoped to be at Build in person, but [as a postgraduate](https://www.sealjay.com/), happy to be present virtually!
+> [CortalUX](https://github.com/CortalUX) was here
+
+---
+# David Lindenmuth (Coder-Nut) attended Microsoft Build 2020 
+
+> Well done! Looking forward to future streams.
+
+---
 # MSBUILD 2020
 
 > Greetings from Colombia, Developers! Developers! Developers!
+
+---
+# [DariaNico](https://github.com/DariaNico) here to say, "HIYA MS Build 2020!!"
+
+> I've finally made it in! (in the ssh sense)
+
+It took me a day of sshing and accidentally cloning master and not my forked branch, but here I am!
+
+**Terrible** *Wonderful* Things Build has Inspired:
+* Set up ssh for the first time on Windows
+* Set up a Ruby/Rails dev environment on Windows (with wsl)
+* Rewrite my resume with LaTeX
+* Figure out how to dev with Azure
+* Begin Sketchnoting
+* Learn Python and C++
+* Begin my DevOps journey
+* AI and Machine Learning!!
+
+```ruby
+def happy_message(your_name)
+    puts "Stay inspired! You are awesome, #{your_name}! <3 Microsoft Build 2020!"\
+end
+```
+---
+**So excited to be part of the Microsoft Build Student Zone**
+
+It's my dream to work @ Microsoft
+
+𝗠𝘆 𝗽𝗮𝘀𝘀𝗶𝗼𝗻 𝗶𝘀 𝗳𝗶𝗻𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 "𝗪𝗵𝘆" 𝗯𝗲𝗵𝗶𝗻𝗱 𝗰𝗼𝗺𝗽𝗹𝗲𝘅 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝘂𝘀𝗶𝗻𝗴 𝗱𝗮𝘁𝗮. 📊
+
+𝗠𝘆 𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝗶𝘀 𝘁𝗼 "𝗘𝗻𝗴𝗮𝗴𝗲, 𝗘𝗺𝗽𝗮𝘁𝗵𝗶𝘇𝗲, 𝗘𝗻𝗮𝗯𝗹𝗲, 𝗮𝗻𝗱 𝗘𝗺𝗽𝗼𝘄𝗲𝗿 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲"🔥
+
+𝗠𝘆 𝘃𝗶𝘀𝗶𝗼𝗻 𝗶𝘀 𝘁𝗼 𝗱𝗿𝗶𝘃𝗲 𝗽𝗼𝘀𝗶𝘁𝗶𝘃𝗲 𝗰𝗵𝗮𝗻𝗴𝗲 𝗮𝗻𝗱 𝘂𝗻𝗶𝗾𝘂𝗲 𝗴𝗿𝗼𝘄𝘁𝗵 𝗶𝗻 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝘆.🔭
+
+Connect with me on https://www.linkedin.com/in/daviddzhou/
 
 ---
 # doppelmoep was at Microsoft Build 2020
@@ -154,6 +280,17 @@ Greetings from the **ThreeB IT** team in Germany
 
 ---
 # Dennie Declercq from #DreamingIsBelieving Really LOVES Build2020!
+
+---
+# Eddy was at Build 2020
+
+> I'm very excited for Microsoft adopting my favorite language, [Rust](https://www.rust-lang.org/)!
+
+### Follow me on [Twitter](https://twitter.com/edfloreshz) and join my [Discord](https://discord.gg/p9SMcAh) server 🙂
+
+```rust 
+println!(“Build 2020 rocks!”);
+```
 
 ---
 # Francesco @ Build 2020
@@ -177,6 +314,15 @@ Cool
 Happy to be able to join MS Build 2020
 Hope my friend **Vinod** could see my markdown
 Awesome
+
+---
+# FW Desperado
+
+> No longer a professional student, but I plan to keep learning as long as I'm breathing.
+
+> Greetings from North Texas
+
+I hope that everyone else is having a great time at MS Build (virtual) 2020!
 
 ---
 # [Garfbradaz](https://twitter.com/garfbradaz) was at MS Build 2020
@@ -213,6 +359,26 @@ MS Build  lots of learn opportunities
 > -Me (and a lot of other people)
 
 ---
+## This is my Note to the Social Shareboard!  
+Microsoft Build 2020 - Be a part of MS Build 2020 Digital Story!  
+  
+*Made by:* **Jose Avalos (MrKarate)**  
+*Date:* **20/05/2020**  
+*Time:* **02:12 A.M. (GMT-6)**  
+*Place:* **Baja, MX**  
+*Filename:* **GreetingsFromBajaMX.md**  
+  
+***Thank you very much for organizing such a great and incredible event! All the love and good vibes from Baja, MX! Ossu!***  
+  
+     _    _         _                   _ 
+    | \  / |       | |                 | |
+    |  \/  | _ __  | | ____ _ _ __ __ _| |_ ___
+    | |\/| || '__/ | |/ / _` | '__/ _` | __/ _ \
+    | |  | || |    |   < (_| | | | (_| | ||  __/
+    |_|  |_||_|<>  |_|\_\__,_|_|  \__,_|\__\___|
+
+
+---
 #Summary
 
 Gregsonian attended Build 2020. _It was super effective._
@@ -226,6 +392,14 @@ I stayed up pretty late for this. It's amazing what techs-citement can do to kee
 # Jeet was in MS Build 2020
 
 > Carpe Diem
+
+---
+# Hasan Ünlü @ Microsoft Build 2020
+
+> From Turkey with love!
+```fsharp
+printfn "Hello World from F#"
+```
 
 ---
 ___
@@ -247,6 +421,11 @@ ___
 
 ---
 I like MS Build 2020.  
+
+---
+Hello, **Samrat** was here.
+This is my first ever Build Conference and I am totally loving it.
+Thank You Microsoft for such a beautiful event.
 
 ---
 ___
@@ -273,6 +452,17 @@ that is accessible to developers all over the world!
 <3
 
 ---
+# Ilya Panin
+
+> This is great sunny morning to learn something new.
+
+Next things to learn:
+
+- [ ] [Building scalable and secure applications with Azure Cosmos DB](https://mybuild.microsoft.com/sessions/9c8fa83f-5c1b-4f61-a6fd-5362656eec84)
+- [ ] [The History of Visual Studio Code](https://mybuild.microsoft.com/sessions/6b571733-8198-48da-b870-ef804dcfea93)
+- [ ] [Reach millions of users building apps with the Microsoft Identity Platform](https://mybuild.microsoft.com/sessions/ad7a1dca-0507-4643-ae34-de7edf6debbc)
+
+---
 # Michaël Hompus
 _a.k.a. eNeRGy164_
 
@@ -280,6 +470,24 @@ _a.k.a. eNeRGy164_
 
 * [My Twitter](https://twitter.com/eNeRGy164)
 * [My Blog](https://blog.hompus.nl)
+
+---
+```
+ __  __    _____     ____            _   _       _     ___     ___    ___     ___  
+|  \/  |  / ____|   |  _ \          (_) | |     | |   |__ \   / _ \  |__ \   / _ \ 
+| \  / | | (___     | |_) |  _   _   _  | |   __| |      ) | | | | |    ) | | | | |
+| |\/| |  \___ \    |  _ <  | | | | | | | |  / _` |     / /  | | | |   / /  | | | |
+| |  | |  ____) |   | |_) | | |_| | | | | | | (_| |    / /_  | |_| |  / /_  | |_| |
+|_|  |_| |_____/    |____/   \__,_| |_| |_|  \__,_|   |____|  \___/  |____|  \___/                                                                                                
+
+         _  _           _  _  _      _____  _        _                   _           
+/\   /\ (_)| |_   __ _ | |(_)(_)     \_   \| |  ___ | |__    ___  _ __  | | __  ___  
+\ \ / / | || __| / _` || || || |      / /\/| | / __|| '_ \  / _ \| '_ \ | |/ / / _ \ 
+ \ V /  | || |_ | (_| || || || |   /\/ /_  | || (__ | | | ||  __/| | | ||   < | (_) |
+  \_/   |_| \__| \__,_||_||_||_|   \____/  |_| \___||_| |_| \___||_| |_||_|\_\ \___/ 
+```
+
+You can find me on Github: https://github.com/ilchenkob
 
 ---
 # Excellent sessions by Microsoft
@@ -310,6 +518,11 @@ console.log( "i love lasagna!" );
 
 
 ---
+# inTone was at MS Build 2020
+
+> I was here. 👀
+
+---
 # Jen Looper is loving MS Build 2020
 
 > Hi everyone! I'll be doing a bunch of activities at MS Build 2020 but the one that students will love is a mindful programming activity: creating a terrarium with just HTML, CSS, and JavaScript - no filler! Enjoy some hand-drawn succulents and craft a draggable interface where you can situate your plants in a terrarium created with just CSS. It's actually quite relaxing!
@@ -321,6 +534,14 @@ When you're done, view the terrarium locally by opening index.html in your brows
 To do that, go to your GitHub repo where your terrarium lives and connect GitHub pages to the appropriate branch (probably your master branch) in Settings.
 
 Enjoy your lovely terrarium! And tell me what you think of the experience (I'm on Twitter @jenlooper)!
+
+
+---
+> [Jerry](https://github.com/jerrimath) was here
+
+```java
+System.out.println("First Build!");
+```
 
 
 ---
@@ -368,9 +589,13 @@ Amazing and interesting Sessions!! Tired with red-eyes but still watching sessio
 console.log( "Bonjour" );
 
 ---
-# Howdy!
+#Howdy!
 
-> Greetings from Plano, Texas!
+###Greetings from Plano, Texas!
+
+I really enjoyed this class. Thanks, Intafluff!
+
+(The boss also says *hi*. She really enjoys jumping up on the keyboard and messing up my code.)
 
 JulieB
 
@@ -381,6 +606,20 @@ JulieB
 # Jason Weller
 This is my first time at Microsoft Build. Glad to be here
 
+---
+# K1ngJony W4Z H3R3 @ MS Build 2020
+
+> G'Day from Downunder in Melbourne, Australia!
+
+:kangaroo:
+
+I'm so gald to have finally been able to attend Build, and even leave my mark to prove it. It's been so much fun learning lots of new things. :grin:
+
+```js
+console.log( "Achievement Get: Attend Microsoft Build 2020 (100G)" );
+```
+I shall now leave you with my favourite *(unofficial)* Microsoft Mascot:
+![Image of Ninjacat](https://gxcuf89792.i.lithium.com/t5/image/serverpage/image-id/90157iC70789FA35999D4E?v=1.0)
 ---
 # Woohyun Cho (a.k.a. Noa Himesaka was on MS Build 2020
 
@@ -434,6 +673,30 @@ Follow me on:
 Part of MS Build 2020 Digital history!
 
 ---
+# Notes
+
+I'm Luis Li from Univeristy of Pittsburgh. This is my note for Microsoft Build 2020.
+You know, having a code presented in the Student Zone at Build 2020 is awesome!
+
+---
+# Thank You
+
+Thank you for offering MS Build 2020 this year virtually. I have learned a lot!
+
+*Luke Liukonen*
+
+Milwaukee, WI, USA
+
+---
+# Mark David Raborar was sort of, kind of, virtually HERE at Build 2020
+
+> So excited for #MSBuild
+
+Probably the only intentional online footprint of my real name appearing anywhere.
+
+Hello world!
+
+---
 # Microsoft Build 2020 - *an experience*
 > Learning coding concepts from experts and afficionados all for free!
 
@@ -458,6 +721,12 @@ two days will be better and better!
 Servus from Munich, Germany.
 I'm so exicted to be part of this. And I want my Microsoft socks :D
 Better the MS Build only Oktoberfest.
+---
+Hello,
+សួស្តី,
+From Cambodia :)
+Love Ms Build 2020.
+
 ---
 _**Olá MS Build Student Zone!**_
 
@@ -493,6 +762,12 @@ Just decided to finish the session as I consider myself as a life-long student (
 Learnt a lot about various new technologies from Microsoft BUILD 2020 and waiting for dotnetconf 2020!
 
 ---
+# Napasorn S. was at MS Build2020!
+
+> Hi! I'm gald to be here. I have a lot of fun. Thank you for creating the event:)
+
+
+---
 # Johnny was at MS Build 2020
 
 > We'll take you there.
@@ -505,6 +780,11 @@ Representing [AVEVA](https://www.aveva.com) crew.
 * [Twitter](https://twitter.com/norgelera)
 * [NuGet Profile](https://www.nuget.org/profiles/kuromukira)
 
+---
+# Joan Concilio
+> Kindness matters.
+* [Twitter](https://twitter.com/definity)
+* [LinkedIn](https://linkedin.com/in/joanconcilio)
 ---
 
 ```rust
@@ -609,6 +889,18 @@ fn main() {
 ```
 
 ---
+# Octavio Rodríguez at MS Build 2020
+
+> A long day but full with great content!
+
+No [fsharp](https://fsharp.org/) in MS Build :( . . .
+
+```fsharp
+let s = ":)"
+printfn "Here we have a bit of fsharp! %s" s
+```
+
+---
 # panoukos41 was at MS Build 2020
 
 Bedtime paradox: If everything's possible, is it possible for something to be impossible ?
@@ -624,6 +916,13 @@ My favourite quote:
 Admiral William H. McRaven
 
 Kev Ritchie - Paradise Computing Ltd, UK
+---
+# Paul S was at MS Build 2020
+
+> Thanks MS for putting this together!
+
+Greetings from Houston!
+
 ---
 # Parker Chun was at MS Build 2020
 
@@ -651,6 +950,13 @@ Thank you, Microsoft Build and Student Zone team. 😊
 ```Java
 System.out.println("Hello Build2020!");
 ```
+
+---
+# Priyanshu Rohilla
+
+> So excited to be a part of Build 2020
+
+I will participate in it next year also!!
 
 ---
 # Jonathan Sweetland
@@ -686,6 +992,21 @@ Contact: [LinkedIn](linkedin.com/in/rishikeshkadam1419) | [Twitter](twitter.com/
 Follow me on twitter: [@yrbowden](http://twitter.com/rybowden)
 
 ---
+# Lucas Saechao, MS Build 2020
+
+> Thanks for putting on this awesome event, I literally could not learn enough over these past couple of days
+
+It was an incredible experience to get to learn so much about Microsoft's cloud platform as well as all of the sessions that went into speaking about machine learning and artificial intelligence. I'm glad to have had the chance to be in attendance for my final year at university, before I can say 
+
+```js
+console.log("Hello world!");
+```
+
+to a new life as a professional computer scientist. Connect with me on [LinkedIn](https://linkedin.com/in/lucassaechao)
+
+Lucas Saechao
+
+---
 # [SalmanMKC](http://twitter.com/SalmanMKC) - Salman Chishti
 
 > I love 'Build'ing others up!
@@ -711,6 +1032,13 @@ Twitter: @SeanKuip
 > Thanks for amazing experiences and presentations !!!
 
 Happy coding everyone :D
+
+---
+# Sergey Zakharchenko
+
+> Дубрава 34
+
+> MS Build is always fun!
 
 ---
 # Sarah was at MS Build 2020
@@ -743,6 +1071,22 @@ I hope that anything really is possible and with hard work I'll be able to make 
 I am so happy to be a part of this online event.
 
 ---
+# [Carlos Perestrelo Correia](https://www.linkedin.com/in/carlosperestrelocorreia)
+
+```                                                       
+ _____ _____ _____ _____ _____ __    ____     ___ ___ ___ ___ 
+|     |   __| __  |  |  |     |  |  |    \   |_  |   |_  |   |
+| | | |__   | __ -|  |  |-   -|  |__|  |  |  |  _| | |  _| | |
+|_|_|_|_____|_____|_____|_____|_____|____/   |___|___|___|___|
+                                                              
+```
+> [Spartymants](https://twitter.com/spartymants) was at #MSBuild2020
+
+From the comfort of his chair in a surprisingly sunny UK! :) #StayingAtHome
+
+
+
+---
 # StanleyGoldman was at MSBuild Student Zone
 
 > MSBuild is awesome as always! Be sure to checkout GitHub Actions.
@@ -762,6 +1106,30 @@ Love the Build so far guys! Thank you so much for bringing Microsoft Build to ev
 > Saying Hello From Vancouver Canada!
 
 Super Excited to be Part of the MS Build 2020 Experience!
+
+---
+#StudentsAtBuild
+
+**Loving the build so far and learning a lot.**
+
+# 20.05.2020 [Microsoft Build]
+
+```js
+Hello, Friend.;
+```
+
+---
+# Subin was at MS Build 2020
+
+> Hey Everyone from Nepal
+
+Having such an amazing experience with MS Build 2020 (My first ever build). 
+#MSBUILD
+[#SubiDroid](https://subidroid.com)
+
+```js
+console.log("It's over 20 hours and I'm still awake");
+```
 
 ---
 # Sulthan Mohaideen
@@ -824,6 +1192,11 @@ My Hannah MT 5 - welcome to world of coding.
 ```
 
 ---
+Hi ! @thenuskinawfer was here.
+
+Participating in my first ever MSFT Build event, Just Phenomenal !!!
+
+---
 # Thomas Wright
 
 > Software engineering student at Flatiron School // <br>
@@ -857,6 +1230,17 @@ get in touch with me:
 
 
 ---
+# MS Build 2020 by Tibor
+
+> Never stop learning guys!
+
+You can always ask the old ones: [Twitter account](https://twitter.com/xerohun)
+
+```js
+console.log('Learning in progress...');
+```
+
+---
 # Tim S. was at MS Build 2020
 
 > I love the Student Zone and the super fluffy, friendly atmosphere!!!
@@ -865,6 +1249,14 @@ get in touch with me:
 while (true) {
   console.log("INSTAFLUFF IS AWESOME!!");
 }
+```
+
+---
+# Tintin was at Build2020. 
+
+> Awesome from Microsoft to have created this digital experience!!! Thank you.
+```
+console.log( "Stay healthy, stay safe!!! We shall get over this Covid-19 more stronger than ever" );
 ```
 
 ---
