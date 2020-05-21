@@ -52,6 +52,7 @@ Here are some examples of the content and star speakers we have this year:
 | COM230 | Open the Learning Door to Computer Science with Minecraft | Masami Ishiyama | [Download Minecraft: Education Edition](https://education.minecraft.net/) |  |  |
 | COM231 | Cognitive Services for Photo Exploration and Science Art | [Dmitry Soshnikov](https://soshnikov.com) | [Explore Photos of Your Friends](http://github.com/CloudAdvocacy/FaceStudies), [Create Your Own Cognitive Portrait](http://github.com/CloudAdvocacy/CognitivePortrait), [Test the People Blender Bot](https://soshnikov.com/museum/peopleblenderbot/) |  |  |
 | COM232 | Build a Virtual Reality Game with JavaScript! | [Cassie Breviu](https://twitter.com/cassieview) | [VR with JavaScript Sample Code](https://aka.ms/WebVrBuild2020) |  |  |
+| COM235 | Thanks for joining the Student Zone at Build | [Chloe Condon](https://twitter.com/ChloeCondon), [Crazy Aunt Lindsey](https://www.thefablab.com/), [Liam McGregor](www.linkedin.com/in/liamjmcgregor/), [Morgan Dukes](https://www.linkedin.com/in/morgandukes3/), [Swetha Prabakaran](twitter.com/swethapraba) | [Microsoft the Musical](http://aka.ms/musical) |  |  |
 
 ## Try out Minecraft: Education Edition with MakeCode
 You can try out the Minecraft: Education Edition with these usernames:  
