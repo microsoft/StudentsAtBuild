@@ -71,7 +71,9 @@ mee99@minecrafteducationedition.com
 Pick one, doesn't matter
 Password for all: Build2020  
   
-**NOTE: THESE USER ACCOUNTS MAY NOT BE AVAILABLE PAST BUILD. HOWEVER, ANY STUDENT WITH A M365 SCHOOLS ACCOUNT WILL BE ABLE TO LOG INTO MINECRAFT: EDUCATION EDITION**
+**NOTE: THESE USER ACCOUNTS MAY NOT BE AVAILABLE PAST BUILD. HOWEVER, ANY STUDENT WITH A M365 SCHOOLS ACCOUNT WILL BE ABLE TO LOG INTO MINECRAFT: EDUCATION EDITION**  
+
+If these are no longer available, we recommend you check out the [Minecraft: Education Edition Hour of Code](https://education.minecraft.net/lessons/minecraft-hour-of-code/), which is free and doesn't require a login!  
 
 ### Minecraft Education 
 
