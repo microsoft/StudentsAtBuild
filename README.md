@@ -75,7 +75,7 @@ Microsoft Student Learn Ambassadors are a global group of on-campus ambassadors 
 Learn how to become a [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/). 
 
 #### MSPInspire
-A group of students including two speakers here (Salman and Sabiha) organise and run weekly events on the MSPInspire YouTube channel which gets students invovled with new technologies, trying to inspire them to become learners and grow their skillsets.
+A group of students including two speakers here ([Salman](https://twitter.com/salmanmkc) and [Sabiha](https://www.linkedin.com/in/sabiha-shaik/)) organise and run weekly events on the MSPInspire YouTube channel which gets students invovled with new technologies, trying to inspire them to become learners and grow their skillsets.
 
 Some of the events they run include talks with Imagine Cup finalists, MVPs, Microsoft employees, etc.
 [Check out MSPInspire here](http://mspinspire.com)
