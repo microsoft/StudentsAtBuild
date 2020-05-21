@@ -33,7 +33,7 @@ Here are some examples of the content and star speakers we have this year!
 | Intro to Rust | [Meaghan Lewis](https://www.linkedin.com/in/meaghan-lewis/) | [Getting Started with Rust](https://www.rust-lang.org/) |  |
 | Be a part of MS Build 2020 Digital history! | [Instafluff](https://www.instafluff.tv/) | TBD |  |
 | Inspired by the Next Generation of Coders | Louanne Murphy and Scott Hanselman | TBD |  |
-| Anyone Can AI! A No-Code Bot That Understands You | [ ]() | TBD |  |
+| Anyone Can AI! A No-Code Bot That Understands You | [Get started with the Social Shareboard](https://github.com/microsoft/StudentsAtBuild/tree/master/Social2020) | TBD |  |
 | Microsoft MakeCode with Minecraft Blocks | MakeCode | [Creating a Flower Trail in Minecraft](https://github.com/salmanmkc/MakeCodeDemos/blob/master/Minecraft/Flower%20Trail/Readme.md) |  |
 | Microsoft MakeCode with Minecraft Python | MakeCode | [Makecode MineCraft in Python](https://github.com/ankitasharma88990/Minecraft-Makecode-Python/blob/master/Codefile.ipynb) |  |
 | An Introduction to Chatbots | [Jasmine Greenaway](https://twitter.com/paladique) | [Chatbots Starter Code](aka.ms/build2020-chatbotsintro) |  |
