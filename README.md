@@ -59,7 +59,9 @@ Here are some examples of the content and star speakers we have this year:
 
 You will need an Office 365 Education account to log in to the full version of [Minecraft: Education Edition](https://education.minecraft.net/). If you do not have a license, you can still use Minecraft: Education Edition with a limited number of logins that we've provide below.
 
-Enter your [school email address](https://education.minecraft.net/get-started/) to see if your school account is eligible for a trial. If it’s not, we’ll redirect you to a sign-up page.
+To get started, enter your [school email address on the Minecraft: Education Edition website](https://education.minecraft.net/get-started/) to confirm that your school account is eligible for full access or even a free trial. Then, download the game and follow the sign in prompts from within the game, using your same school credentials.  
+
+Additional support can be found on the [Help page for Minecraft: Education Edition](https://minecrafteducation.zendesk.com/). 
 
 
 ### You can try out the Minecraft: Education Edition with these usernames:  
