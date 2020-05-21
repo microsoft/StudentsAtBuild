@@ -56,7 +56,13 @@ Here are some examples of the content and star speakers we have this year:
 | COM235 | Thanks for joining the Student Zone at Build | [Chloe Condon](https://twitter.com/ChloeCondon), [Crazy Aunt Lindsey](https://www.thefablab.com/), [Liam McGregor](www.linkedin.com/in/liamjmcgregor/), [Morgan Dukes](https://www.linkedin.com/in/morgandukes3/), [Swetha Prabakaran](twitter.com/swethapraba) | [Microsoft the Musical](http://aka.ms/musical) |  |  |
 
 ## Try out Minecraft: Education Edition with MakeCode
-You can try out the Minecraft: Education Edition with these usernames:  
+
+You will need an Office 365 Education account to log in to the full version of Minecraft: Education Edition. If you do not have a license, you can still use Minecraft: Education Edition with a limited number of logins.
+
+Enter your [school email address](https://education.minecraft.net/get-started/) to see if your school account is eligible for a trial. If it’s not, we’ll redirect you to a sign-up page.
+
+
+### You can try out the Minecraft: Education Edition with these usernames:  
 mee01@minecrafteducationedition.com  
 mee02@minecrafteducationedition.com  
 mee03@minecrafteducationedition.com  
@@ -64,7 +70,19 @@ mee03@minecrafteducationedition.com
 mee99@minecrafteducationedition.com  
 Pick one, doesn't matter
 Password for all: Build2020  
-**NOTE: THESE MAY NOT BE AVAILABLE PAST BUILD**
+
+### Minecraft Education 
+
+-You can find more details of [Minecraft education](https://education.minecraft.net/)
+-Install [Minecraft Education](https://education.minecraft.net/get-started/)
+
+Minecraft has released a series of free educational sessions that parents can download to help children learn at home during COVID-19
+
+Minecraft Marketplace, which features items and add-ons that people can use in the popular block-building game, has a new Education section.
+
+The educational content lets players explore the International Space Station, through a partnership with NASA, as well as learn to code with a robot, visit Washington DC landmarks, find and build 3D fractals, learn what it’s like to be a marine biologist and more. This is launching for free download today and will be available through June 30, 2020. [Minecraft FREE Educational Session](https://news.microsoft.com/en-gb/2020/03/25/minecraft-launches-free-educational-content-for-children/)
+
+**NOTE: THE USER ACCOUNTS MAY NOT BE AVAILABLE PAST BUILD. ANY STUDENT WITH A M365 SCHOOLS ACCOUNT WILL BEABLE TO LOG INTO MINECRAFT EDUCATION**
 
 If these are no longer available, we recommend you check out the Minecraft: Education Edition Hour of Code, which is free and doesn't require a login!  
 [Try out the Minecraft: Education Edition Hour of Code today!](https://education.minecraft.net/hour-of-code)
