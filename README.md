@@ -79,7 +79,7 @@ Password for all: Build2020
 ### Educational Content on Minecraft
 [Minecraft](https://www.minecraft.net/) has released a series of free educational sessions that parents can download to help children learn at home during COVID-19.
 
-Minecraft Marketplace, which features items and add-ons that people can use in the popular block-building game, has a new Education section.
+[Minecraft Marketplace](https://www.minecraft.net/marketplace), which features items and add-ons that people can use in the popular block-building game, has a new Education section.
 
 The educational content lets players explore the International Space Station, through a partnership with NASA, as well as learn to code with a robot, visit Washington DC landmarks, find and build 3D fractals, learn what it’s like to be a marine biologist and more. This is launching for free download today and will be available through June 30, 2020. [Minecraft FREE Educational Session](https://news.microsoft.com/en-gb/2020/03/25/minecraft-launches-free-educational-content-for-children/)
 
