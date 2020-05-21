@@ -83,7 +83,6 @@ Password for all: Build2020
 
 The educational content lets players explore the International Space Station, through a partnership with NASA, as well as learn to code with a robot, visit Washington DC landmarks, find and build 3D fractals, learn what it’s like to be a marine biologist and more. This is launching for free download today and will be available through June 30, 2020. [Minecraft FREE Educational Session](https://news.microsoft.com/en-gb/2020/03/25/minecraft-launches-free-educational-content-for-children/)
 
-**NOTE: THE USER ACCOUNTS MAY NOT BE AVAILABLE PAST BUILD. ANY STUDENT WITH A M365 SCHOOLS ACCOUNT WILL BEABLE TO LOG INTO MINECRAFT EDUCATION**
 
 If these are no longer available, we recommend you check out the Minecraft: Education Edition Hour of Code, which is free and doesn't require a login!  
 [Try out the Minecraft: Education Edition Hour of Code today!](https://education.minecraft.net/hour-of-code)
