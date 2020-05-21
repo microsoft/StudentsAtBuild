@@ -77,7 +77,7 @@ Password for all: Build2020
 -Install [Minecraft: Education Edition](https://education.minecraft.net/get-started/)
   
 ### Educational Content on Minecraft
-Minecraft has released a series of free educational sessions that parents can download to help children learn at home during COVID-19
+[Minecraft](https://www.minecraft.net/) has released a series of free educational sessions that parents can download to help children learn at home during COVID-19.
 
 Minecraft Marketplace, which features items and add-ons that people can use in the popular block-building game, has a new Education section.
 
