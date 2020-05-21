@@ -99,6 +99,12 @@ The educational content lets players explore the International Space Station, th
 Microsoft Student Learn Ambassadors are a global group of on-campus ambassadors who are eager to help fellow students, lead in their local tech community, and develop technical and career skills for the future. You might find yourself organizing a hackathon to solve the world’s toughest problems, mentoring fellow students, or unlocking the next great idea with your team — it’s all up to you.
 Learn how to become a [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/). 
 
+#### MSPInspire
+A group of students from the Microsoft Student Partner community including two speakers here ([Salman](https://twitter.com/salmanmkc) and [Sabiha](https://www.linkedin.com/in/sabiha-shaik/)) organise and run weekly events on the MSPInspire YouTube channel which gets students invovled with new technologies, trying to inspire them to become learners and grow their skillsets.
+
+Some of the events they run include talks with Imagine Cup finalists, MVPs, Microsoft employees, etc.
+[Check out MSPInspire here](http://mspinspire.com)
+
 ### Imagine Cup
 For nearly two decades, students from around the world have participated in Microsoft’s global technology competition, the Imagine Cup, to bring their unique tech solutions to life. But the Imagine Cup is more than just a competition — you can work with friends (and make new ones!), network with professionals, gain new skills, make a difference in the world around you, and get the chance to win cash and cloud credits. Join the over 2 million students who have participated in the [Imagine Cup](https://imaginecup.microsoft.com/)!
 
