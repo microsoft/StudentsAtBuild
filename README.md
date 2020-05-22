@@ -2,7 +2,7 @@
 
 We had a great time hosting the Student Zone, and are excited so many of you joined us! We hope you found the sessions educational, interesting, and fun too. Our goal is to help fuel your dev passion, and that doesn't stop just because the 48 hours of Microsoft Build is over.
 
-Explore this repository to find starter code for some of the projects and demos from the Student Zone.
+Explore this repository to find starter code for some of the projects and demos from the Student Zone.  And check out [Learn TV](https://docs.microsoft.com/en-us/learn/tv/) for more amazing resources.
 
 ## What is Microsoft Build?
 Microsoft's professional developer conference where, you guessed it, professional developers come 
@@ -61,20 +61,7 @@ To get started, enter your [school email address on the Minecraft: Education Edi
 
 Additional support can be found on the [Help page for Minecraft: Education Edition](https://minecrafteducation.zendesk.com/). 
 
-
-### Demo accounts for Minecraft: Education Edition
-If you do not have access to Minecraft: Education Edition through your school, you can try it out with these limited supply and limited time usernames:  
-mee01@minecrafteducationedition.com  
-mee02@minecrafteducationedition.com  
-mee03@minecrafteducationedition.com  
-...  
-mee99@minecrafteducationedition.com  
-Pick one, doesn't matter
-Password for all: Build2020  
-  
-**NOTE: THESE USER ACCOUNTS MAY NOT BE AVAILABLE PAST BUILD. HOWEVER, ANY STUDENT WITH A M365 SCHOOLS ACCOUNT WILL BE ABLE TO LOG INTO MINECRAFT: EDUCATION EDITION**  
-
-If these are no longer available, we recommend you check out the [Minecraft: Education Edition Hour of Code](https://education.minecraft.net/lessons/minecraft-hour-of-code/), which is free and doesn't require a login!  
+We also recommend you check out the [Minecraft: Education Edition Hour of Code](https://education.minecraft.net/lessons/minecraft-hour-of-code/), which is free and doesn't require a login!  
 
 ### Minecraft: Education Ediction
 
