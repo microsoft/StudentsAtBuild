@@ -10,3 +10,4 @@ open System
 let main argv =
     printfn "Hello MS BUILD 2020 from Huggs!"
     0
+```
