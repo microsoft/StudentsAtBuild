@@ -2,7 +2,7 @@
 
 We had a great time hosting the Student Zone, and are excited so many of you joined us! We hope you found the sessions educational, interesting, and fun too. Our goal is to help fuel your dev passion, and that doesn't stop just because the 48 hours of Microsoft Build is over.
 
-Explore this repository to find starter code for some of the projects and demos from the Student Zone.  And check out [Learn TV](https://docs.microsoft.com/en-us/learn/tv/) for more amazing resources.
+Explore this repository to find starter code for some of the projects and demos from the Student Zone, and check out [Learn TV](https://docs.microsoft.com/en-us/learn/tv/) for more amazing resources.
 
 ## What is Microsoft Build?
 Microsoft's professional developer conference where, you guessed it, professional developers come 
@@ -85,7 +85,7 @@ Microsoft Student Learn Ambassadors are a global group of on-campus ambassadors 
 Learn how to become a [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/).
 A video to [help guide you to apply to be a Microsoft Student Learn Ambassador](http://bit.ly/microsoftlearnstudentambassadors).
 
-#### MSPInspire
+### MSPInspire
 A group of students from the Microsoft Student Partner community including two speakers here ([Salman](https://twitter.com/salmanmkc) and [Sabiha](https://www.linkedin.com/in/sabiha-shaik/)) organise and run weekly events on the MSPInspire YouTube channel which gets students invovled with new technologies, trying to inspire them to become learners and grow their skillsets.
 
 Some of the events they run include talks with Imagine Cup finalists, MVPs, Microsoft employees, etc.
