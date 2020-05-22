@@ -1,12 +1,13 @@
-# Welcome to the Student Zone at Microsoft Build 2020!
+# Thank you for joining us in the Student Zone at Microsoft Build 2020!
 
-We are so excited to provide support for you to not only learn by listening and watching, but by doing! 
+We had a great time hosting the Student Zone, and are excited so many of you joined us! We hope you found the sessions educational, interesting, and fun too. Our goal is to help fuel your dev passion, and that doesn't stop just because the 48 hours of Microsoft Build is over.
+
 Explore this repository to find starter code for some of the projects and demos from the Student Zone.
 
 ## What is Microsoft Build?
 Microsoft's professional developer conference where, you guessed it, professional developers come 
 to confer! By that, we mean where developers come to learn about how Microsoft can better support their
-unique developer journey. There are technical sessions, opportunities to meet and talk with experts, and 
+unique developer journey. There were technical sessions, opportunities to meet and talk with experts, and 
 the chance to discover and grow a technical community.
 
 ## What is the Student Zone?
@@ -14,10 +15,6 @@ Each year at Microsoft Build we create a session track specifically aimed at stu
 for our **student** developers is 14-21 years old, though that is really just there to guide us in scoping 
 the content we create for you. So if you're a bit outside of these exact ages, you still might find this content 
 useful for your coding journey! This may be perfect for you if you're a career switcher or a even just a beginner!
-
-## Where can I find the Student Zone Sessions?
-First, please register for the [Microsoft Build conference](https://register.build.microsoft.com/). 
-Next, head over to the Community Connections and find the Student tab. Make sure to add all of the sessions to your schedule builder!
 
 ## How can I find the resources mentioned in the Student Zone sessions?
 Here are some examples of the content and star speakers we have this year:
