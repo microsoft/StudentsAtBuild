@@ -73,8 +73,14 @@ mee02@minecrafteducationedition.com
 mee03@minecrafteducationedition.com  
 ...  
 mee99@minecrafteducationedition.com  
-Pick one, doesn't matter
+
 Password for all: Build2020  
+
+> You can use mee01 if you are playing single player, but if you are
+> playing multiplayer with other people, make sure that you choose a
+> different acccount.
+
+
   
 **NOTE: THESE USER ACCOUNTS MAY NOT BE AVAILABLE PAST BUILD. HOWEVER, ANY STUDENT WITH A M365 SCHOOLS ACCOUNT WILL BE ABLE TO LOG INTO MINECRAFT: EDUCATION EDITION**  
 
@@ -82,8 +88,8 @@ If these are no longer available, we recommend you check out the [Minecraft: Edu
 
 ### Minecraft: Education Ediction
 
--You can find more details of [Minecraft: Education Edition](https://education.minecraft.net/)</br>
--Install [Minecraft: Education Edition](https://education.minecraft.net/get-started/)
+- You can find more details of [Minecraft: Education Edition](https://education.minecraft.net/)</br>
+- Install [Minecraft: Education Edition](https://education.minecraft.net/get-started/)
   
 ### Educational Content on Minecraft
 [Minecraft](https://www.minecraft.net/) has released a series of free educational sessions that parents can download to help children learn at home during COVID-19.
