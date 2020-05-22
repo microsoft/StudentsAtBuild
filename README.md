@@ -1,3 +1,4 @@
+
 # Welcome to the Student Zone at Microsoft Build 2020!
 
 We are so excited to provide support for you to not only learn by listening and watching, but by doing! 
@@ -81,7 +82,7 @@ If these are no longer available, we recommend you check out the [Minecraft: Edu
 
 ### Minecraft: Education Ediction
 
--You can find more details of [Minecraft: Education Edition](https://education.minecraft.net/)
+-You can find more details of [Minecraft: Education Edition](https://education.minecraft.net/)</br>
 -Install [Minecraft: Education Edition](https://education.minecraft.net/get-started/)
   
 ### Educational Content on Minecraft
@@ -105,7 +106,7 @@ A video to [help guide you to apply to be a Microsoft Student Learn Ambassador](
 A group of students from the Microsoft Student Partner community including two speakers here ([Salman](https://twitter.com/salmanmkc) and [Sabiha](https://www.linkedin.com/in/sabiha-shaik/)) organise and run weekly events on the MSPInspire YouTube channel which gets students invovled with new technologies, trying to inspire them to become learners and grow their skillsets.
 
 Some of the events they run include talks with Imagine Cup finalists, MVPs, Microsoft employees, etc.
-[Check out MSPInspire here](http://mspinspire.com)
+[Check out MSPInspire here](http://mspinspire.com)</br>
 There's also a discord server here: https://aka.ms/MSPInspireChat
 
 ### Imagine Cup
@@ -117,11 +118,16 @@ Here's a [podcast with the Program Manager of the Imagine Cup, the 2018 world ch
 Imagine Cup Junior 2020 is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and create an AI for Good concept that they think could make a positive impact on the world around them.  The top 3 teams (1 - 6 students per team) from each region will receive a Windows 10 device each, an Imagine Cup Junior trophy and a group mentoring session with a Microsoft Vice President.
 
 Students can learn more about AI and build their projects live via our Imagine Cup Junior Teams events:  
-[Americas](https://aka.ms/ICJWebinarAmericas) - May 26, 2020 9.30am – 12.30pm PDT
 
-[EMEA](https://aka.ms/ICJWebinarEMEA) - May 27, 2020 - 9.30am – 12.30pm BST
+|Region|Date | Time|
+|--|--|--|
+| [Americas](https://aka.ms/ICJWebinarAmericas) | May 26 2020| 9:30 a.m. – 12:30 p.m. PDT |
+[EMEA](https://aka.ms/ICJWebinarEMEA) |May 27 2020| 9.30 a.m. – 12:30 p.m. BST|
+|[Asia](https://aka.ms/ICJWebinarAsia) |May 29 2020|  12:00 p.m. – 3:00 p.m. SGT |
 
-[Asia](https://aka.ms/ICJWebinarAsia)  - May 29, 2020 - 12.00 – 15.00 SGT 
+
+
+
 
 Educators can [register](https://www.imaginecup.com/junior) through June 12, 2020.
 
