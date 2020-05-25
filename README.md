@@ -124,4 +124,4 @@ By simply verifying your student status through your school email address, and y
 
 
 # Thank you from the Student Zone! 
-Thank you for attending the Student Zone at Build. If you would like to suggest ideas for next year at Build, create an issue on this repsository ([with this link](https://github.com/microsoft/StudentsAtBuild/issues/new) and we'll be sure to look into your suggestions! 😊
+Thank you for attending the Student Zone at Build. If you would like to suggest ideas for next year at the Microsoft Build Student Zone, create an issue on this repsository ([with this link](https://github.com/microsoft/StudentsAtBuild/issues/new) and we'll be sure to look into your suggestions! 😊
