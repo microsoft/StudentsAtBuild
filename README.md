@@ -19,7 +19,7 @@ useful for your coding journey! This may be perfect for you if you're a career s
 ## How can I find the resources mentioned in the Student Zone sessions?
 Here are the sessions, speakers, slides, and videos of all Student Zone sessions from this year!
 
-| Session Code | Topic | Speaker | Resources | Slides (Coming Soon) | Video on Demand (Coming Soon) |
+| Session Code | Topic | Speaker | Resources | Slides  | Video on Demand |
 |--------------|-------|---------|-----------|--------|-------------------------------|
 | COM200 | Welcome to the Student Zone at Build | [Chloe Condon]() and [Sarah Guthals]() |  |  | [Video](https://mybuild.microsoft.com/sessions/c05b31b3-b459-4166-aea6-d45f5c0ad7e0?source=sessions) |
 | COM201A | Microsoft MakeCode with Minecraft Blocks | Peli de Halleux and Joey Wunderlich | [Minecraft: Education Edition](https://education.minecraft.net/), [MakeCode Online Learning](https://makecode.com/online-learning), [Minecraft: Education Edition Hour of Code](https://education.minecraft.net/hour-of-code) | [Slides](https://slidesandresources.blob.core.windows.net/slides/COM201A_MakeCode_Minecraft_Blocks_PeliJoey_FINAL.pdf) | [Video](https://mybuild.microsoft.com/sessions/3f9731ba-c827-4bcc-a502-de0c3f83f6f2?source=sessions) |
