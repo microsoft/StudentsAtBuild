@@ -122,4 +122,6 @@ Master new concepts at your speed and on your schedule. Start here to develop pr
 ### Azure For Students 
 By simply verifying your student status through your school email address, and you're ready to go on Azure with $100 in credit. Build your skills in trending tech including data science, artificial intelligence (AI), machine learning, and other areas with access to professional developer tools. You can even access free learning paths and labs to take your skills to the next level. Learn more about [Azure for Students](https://aka.ms/azureforstudents).
 
+
+# Thank you from the Student Zone! 
 Thank you for attending the Student Zone at Build. If you would like to suggest ideas for next year at Build, create an issue on this repsository ([with this link](https://github.com/microsoft/StudentsAtBuild/issues/new) and we'll be sure to look into your suggestions! 😊
