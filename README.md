@@ -19,7 +19,7 @@ useful for your coding journey! This may be perfect for you if you're a career s
 ## How can I find the resources mentioned in the Student Zone sessions?
 Here are the sessions, speakers, slides, and videos of all Student Zone sessions from this year!
 
-| Session Code | Topic | Speaker | Resources | Slides (Coming Soon) | Video on Demand (Coming Soon) |
+| Session Code | Topic | Speaker | Resources | Slides  | Video on Demand |
 |--------------|-------|---------|-----------|--------|-------------------------------|
 | COM200 | Welcome to the Student Zone at Build | [Chloe Condon]() and [Sarah Guthals]() |  |  | [Video](https://mybuild.microsoft.com/sessions/c05b31b3-b459-4166-aea6-d45f5c0ad7e0?source=sessions) |
 | COM201A | Microsoft MakeCode with Minecraft Blocks | Peli de Halleux and Joey Wunderlich | [Minecraft: Education Edition](https://education.minecraft.net/), [MakeCode Online Learning](https://makecode.com/online-learning), [Minecraft: Education Edition Hour of Code](https://education.minecraft.net/hour-of-code) | [Slides](https://slidesandresources.blob.core.windows.net/slides/COM201A_MakeCode_Minecraft_Blocks_PeliJoey_FINAL.pdf) | [Video](https://mybuild.microsoft.com/sessions/3f9731ba-c827-4bcc-a502-de0c3f83f6f2?source=sessions) |
@@ -57,7 +57,7 @@ Here are the sessions, speakers, slides, and videos of all Student Zone sessions
 | COM231 | Cognitive Services for Photo Exploration and Science Art | [Dmitry Soshnikov](https://soshnikov.com) | [Explore Photos of Your Friends](http://github.com/CloudAdvocacy/FaceStudies), [Create Your Own Cognitive Portrait](http://github.com/CloudAdvocacy/CognitivePortrait), [Test the People Blender Bot](https://soshnikov.com/museum/peopleblenderbot/) | [Slides](https://slidesandresources.blob.core.windows.net/slides/COM231_DmitrySoshnikov_FINAL.pdf) | [Video](https://mybuild.microsoft.com/sessions/c11673e6-cd8b-4544-b82c-deb581092eb9?source=sessions) |
 | COM232 | Build a Virtual Reality Game with JavaScript! | [Cassie Breviu](https://twitter.com/cassieview) | [VR with JavaScript Sample Code](https://aka.ms/WebVrBuild2020) | [Slides](https://slidesandresources.blob.core.windows.net/slides/COM232_CassieBreviu_FINAL.pdf) | [Video](https://mybuild.microsoft.com/sessions/a49fba45-8c7c-41be-9261-4005d7c0f1d2?source=sessions) |
 | COM235 | Thanks for joining the Student Zone at Build | [Chloe Condon](https://twitter.com/ChloeCondon), [Crazy Aunt Lindsey](https://www.thefablab.com/), [Liam McGregor](www.linkedin.com/in/liamjmcgregor/), [Morgan Dukes](https://www.linkedin.com/in/morgandukes3/), [Swetha Prabakaran](twitter.com/swethapraba) | [Microsoft the Musical](http://aka.ms/musical) |  | [Video](https://mybuild.microsoft.com/sessions/a0883eaa-506c-42d9-bb10-2b54122833fa?source=sessions) |
-| COM208 | Learn how to suceed in Hackathons | [Sukhman Preet Singh Jawa](https://twitter.com/sukhmanjawa), [Jpshua Ndemnge](https://www.linkedin.com/in/Jcardif), Kushboo Verma](https://twitter.com/khushbooverma_), [Olumide Ogundare](https://www.linkedin.com/in/olumide-ogundare-91201289), [Gomolemo Mohapi](https://twitter.com/gomomohapi), Moderator: [Pablo Veramendi](https://twitter.com/iampablo) |  |  | [Video](https://mybuild.microsoft.com/sessions/f1bfe307-0024-4551-a932-2041439ada33?source=sessions) |
+| COM208 | Learn how to suceed in Hackathons | [Sukhman Preet Singh Jawa](https://twitter.com/sukhmanjawa), [Joshua Ndemnge](https://www.linkedin.com/in/Jcardif), Khushboo Verma](https://www.linkedin.com/in/verma-khushboo/), [Olumide Ogundare](https://www.linkedin.com/in/olumide-ogundare-91201289), [Gomolemo Mohapi](https://twitter.com/gomomohapi), Moderator: [Pablo Veramendi](https://twitter.com/iampablo) | [Microsoft Learn Student Ambassador Program](https://studentambassadors.microsoft.com/en-us) |  | [Video](https://mybuild.microsoft.com/sessions/f1bfe307-0024-4551-a932-2041439ada33?source=sessions) |
 
 ## Try out Minecraft: Education Edition with MakeCode
 
@@ -121,3 +121,7 @@ Master new concepts at your speed and on your schedule. Start here to develop pr
 
 ### Azure For Students 
 By simply verifying your student status through your school email address, and you're ready to go on Azure with $100 in credit. Build your skills in trending tech including data science, artificial intelligence (AI), machine learning, and other areas with access to professional developer tools. You can even access free learning paths and labs to take your skills to the next level. Learn more about [Azure for Students](https://aka.ms/azureforstudents).
+
+
+# Thank you from the Student Zone! 
+Thank you for attending the Student Zone at Build. If you would like to suggest ideas for next year at the Microsoft Build Student Zone, create an issue on this repository [with this link](https://github.com/microsoft/StudentsAtBuild/issues/new) and we'll be sure to look into your suggestions! 😊
