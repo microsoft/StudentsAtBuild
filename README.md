@@ -14,7 +14,7 @@ the chance to discover and grow a technical community.
 Each year at Microsoft Build we create a session track specifically aimed at student developers. The target age
 for our **student** developers is 14-21 years old, though that is really just there to guide us in scoping 
 the content we create for you. So if you're a bit outside of these exact ages, you still might find this content 
-useful for your coding journey! This may be perfect for you if you're a career switcher or a even just a beginner!
+useful for your coding journey! This may be perfect for you if you're a career switcher or just a beginner!
 
 ## How can I find the resources mentioned in the Student Zone sessions?
 Here are the sessions, speakers, slides, and videos of all Student Zone sessions from this year!
@@ -92,7 +92,7 @@ Learn how to become a [Microsoft Student Learn Ambassador](https://studentambass
 A video to [help guide you to apply to be a Microsoft Student Learn Ambassador](http://bit.ly/microsoftlearnstudentambassadors).
 
 ### MSPInspire
-A group of students from the Microsoft Student Partner community including two speakers here ([Salman](https://twitter.com/salmanmkc) and [Sabiha](https://www.linkedin.com/in/sabiha-shaik/)) organise and run weekly events on the MSPInspire YouTube channel which gets students invovled with new technologies, trying to inspire them to become learners and grow their skillsets.
+A group of students from the Microsoft Student Partner community including two speakers here ([Salman](https://twitter.com/salmanmkc) and [Sabiha](https://www.linkedin.com/in/sabiha-shaik/)) organise and run weekly events on the MSPInspire YouTube channel which gets students involved with new technologies, trying to inspire them to become learners and grow their skillsets.
 
 Some of the events they run include talks with Imagine Cup finalists, MVPs, Microsoft employees, etc.
 [Check out MSPInspire here](http://mspinspire.com)</br>
