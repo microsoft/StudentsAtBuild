@@ -71,13 +71,49 @@ Imagine Cup Junior 2020 is an opportunity for students aged 13 – 18 to learn a
 
 Students can learn more about AI and build their projects live via our Imagine Cup Junior Teams events:  
 
-|Region|Date | Time|
-|--|--|--|
-| [Americas](https://aka.ms/ICJWebinarAmericas) | May 26 2020| 9:30 a.m. – 12:30 p.m. PDT |
-[EMEA](https://aka.ms/ICJWebinarEMEA) |May 27 2020| 9.30 a.m. – 12:30 p.m. BST|
-|[Asia](https://aka.ms/ICJWebinarAsia) |May 29 2020|  12:00 p.m. – 3:00 p.m. SGT |
+You can check out the [series of webinars](https://imaginemedia.blob.core.windows.net/content/Imagine%20Cup%20Junior%20Webinar%20and%20Hackathon%20Series-9028f2508e5c.pptx) as we lead up to Microsoft Build
 
 Educators can [register](https://www.imaginecup.com/junior) through June 12, 2020.
+
+Are your students ready to change the world?
+At Microsoft, our mission is to empower every student on the planet to achieve more. We believe that students today will be the changemakers of tomorrow, so empowering them with the tools and opportunities to learn new skills and be future leaders is core to our mission.
+
+That’s why we’ve extended Imagine Cup to younger students with the Imagine Cup Junior Artificial Intelligence for Good Challenge!
+
+Register Now! 
+
+What is Imagine Cup Junior?
+Imagine Cup Junior 2021 provides students aged 13 to 18 the opportunity to learn about technology and how it can be used to positively change the world. The global challenge is focused on Artificial Intelligence (AI), introducing students to AI and Microsoft’s AI for Good initiatives so they can come up with ideas to solve social, cultural and environmental issues. It’s also a great opportunity to encourage students to develop and practice 21st century skills like communication, collaboration, critical thinking and creativity.
+
+Team Participation
+Educators, Instructors and Parents/Guardians can submit applications for their students, submissions must be an original solution that each team of one (1) to six (6) students have created. For the submission to qualify for the 2021 Imagine Cup Junior, each application must comply with the challenge rules and regulations.
+
+Register now! To receive access to an exciting calendar of virtual events and learning materials:
+
+AI Webinars and Hackathons
+Starting in November we will have a series of AI webinars to guide students through the world of AI. Dates and times are displayed below, educators can register to get the webinar join links and access to recordings here.
+
+Webinar 1: Introduction to AI and Machine Learning
+
+Access recording here.
+
+Webinar 2: AI Applications in real life: How AI is already changing your life
+
+Access recording here.
+
+Webinar 3: AI for Good: How to change the world with AI
+
+Access recording here.
+
+Hackathon: Get your projects built!
+
+|Region|	Date|	Time|
+Americas	4th March 2021	10.00am – 1.00pm
+Pacific Time
+Asia	28th April 2021	11.00am – 2.00pm
+Singapore Time
+EMEA	16th March 2021	8.00am – 11.00am
+Universal Time
 
 ### Microsoft Learn for Students
 Master new concepts at your speed and on your schedule. Start here to develop practical skills through fun, interactive modules and paths. Plus, educators can get access to Microsoft classroom materials and curriculum. Check out all of the Microsoft Learn [paths and resources](http://aka.ms/learnforstudents).
