@@ -108,12 +108,10 @@ Access recording here.
 Hackathon: Get your projects built!
 
 |Region|	Date|	Time|
-Americas	4th March 2021	10.00am – 1.00pm
-Pacific Time
-Asia	28th April 2021	11.00am – 2.00pm
-Singapore Time
-EMEA	16th March 2021	8.00am – 11.00am
-Universal Time
+|--------------|-------|---------|
+|Americas|	4th March 2021|	10.00am – 1.00pm Pacific Time|
+|Asia|	28th April 2021	|11.00am – 2.00pm Singapore Time|
+|EMEA	|16th March 2021	|8.00am – 11.00am Universal Time|
 
 ### Microsoft Learn for Students
 Master new concepts at your speed and on your schedule. Start here to develop practical skills through fun, interactive modules and paths. Plus, educators can get access to Microsoft classroom materials and curriculum. Check out all of the Microsoft Learn [paths and resources](http://aka.ms/learnforstudents).
