@@ -1,4 +1,4 @@
-# Thank you for joining us in the Student Zone at Microsoft Build 2020!
+# Student Zone at Microsoft Build 2021!
 
 We had a great time hosting the Student Zone, and are excited so many of you joined us! We hope you found the sessions educational, interesting, and fun too. Our goal is to help fuel your dev passion, and that doesn't stop just because the 48 hours of Microsoft Build is over.
 
