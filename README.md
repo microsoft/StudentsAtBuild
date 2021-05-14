@@ -89,7 +89,7 @@ Students can learn more about AI and build their projects live via our Imagine C
 |Asia| 28th April 2021 |11.00am – 2.00pm Singapore Time|
 |EMEA |16th March 2021 |8.00am – 11.00am Universal Time|
 
-Educators can [register](https://www.imaginecup.com/junior) through June 12, 2020.
+[Register here](https://www.imaginecup.com/junior) to take part!
 
 ### Microsoft Learn for Students
 Master new concepts at your speed and on your schedule. Start here to develop practical skills through fun, interactive modules and paths. Plus, educators can get access to Microsoft classroom materials and curriculum. Check out all of the Microsoft Learn [paths and resources](http://aka.ms/learnforstudents).
