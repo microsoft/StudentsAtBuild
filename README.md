@@ -83,11 +83,11 @@ Imagine Cup Junior 2020 is an opportunity for students aged 13 – 18 to learn a
 
 Students can learn more about AI and build their projects live via our Imagine Cup Junior Teams events:  
 
-|Region|Date | Time|
-|--|--|--|
-| [Americas](https://aka.ms/ICJWebinarAmericas) | May 26 2020| 9:30 a.m. – 12:30 p.m. PDT |
-[EMEA](https://aka.ms/ICJWebinarEMEA) |May 27 2020| 9.30 a.m. – 12:30 p.m. BST|
-|[Asia](https://aka.ms/ICJWebinarAsia) |May 29 2020|  12:00 p.m. – 3:00 p.m. SGT |
+|Region| Date| Time|
+|--------------|-------|---------|
+|Americas| 4th March 2021| 10.00am – 1.00pm Pacific Time|
+|Asia| 28th April 2021 |11.00am – 2.00pm Singapore Time|
+|EMEA |16th March 2021 |8.00am – 11.00am Universal Time|
 
 Educators can [register](https://www.imaginecup.com/junior) through June 12, 2020.
 
