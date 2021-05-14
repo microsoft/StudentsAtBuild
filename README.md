@@ -61,7 +61,7 @@ The educational content lets players explore the International Space Station, th
 [Try out the Minecraft: Education Edition Hour of Code today!](https://education.minecraft.net/hour-of-code)
 
 ## What other resources does Microsoft have for students?
-### Microsoft Student Learn Ambassadors
+### Microsoft Learn Student Ambassadors
 Microsoft Student Learn Ambassadors are a global group of on-campus ambassadors who are eager to help fellow students who lead in their local tech community, and develop technical and career skills for the future. You might find yourself organizing a hackathon to solve the world’s toughest problems, mentoring fellow students, or unlocking the next great idea with your team — it’s all up to you. If you are a student at university who is actively looking to teach others and empower your community, then do sign up!
 Learn how to become a [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/).
 A video to [help guide you to apply to be a Microsoft Student Learn Ambassador](http://bit.ly/microsoftlearnstudentambassadors).
