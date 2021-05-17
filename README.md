@@ -14,12 +14,11 @@ the chance to discover and grow a technical community.
 Each year at Microsoft Build we create a session track specifically aimed at student developers. The target age
 for our **student** developers is 14-21 years old, though that is really just there to guide us in scoping 
 the content we create for you. So if you're a bit outside of these exact ages, you still might find this content 
-useful for your coding journey! This may be perfect for you if you're a career switcher or a even just a beginner!
+useful for your coding journey! This may be perfect for you if you're a career switcher or an even just a beginner!
 
 ## How can I find the resources mentioned in the Student Zone sessions?
 
 Here are the sessions, speakers, slides, and videos of all Student Zone sessions from this year!
-
 
 | Session ID and Link | Timeslot (PT) | Title | Speaker(s) | Host(s) | Resources |
 |---------------------|---------------|-------|------------|---------|-----------|
