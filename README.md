@@ -56,7 +56,7 @@ By simply verifying your student status through your school email address, and y
 
 ## Imagine Cup Jr
 
-Imagine Cup Junior 2020 is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and create an AI for Good concept that they think could make a positive impact on the world around them.  The top 3 teams (1 - 6 students per team) from each region will receive a Windows 10 device each, an Imagine Cup Junior trophy and a group mentoring session with a Microsoft Vice President.
+Imagine Cup Junior is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and create an AI for Good concept that they think could make a positive impact on the world around them.  The top 3 teams (1 - 6 students per team) from each region will receive a Windows 10 device each, an Imagine Cup Junior trophy and a group mentoring session with a Microsoft Vice President.
 
 [Learn more here](https://www.imaginecup.com/junior)!
 
