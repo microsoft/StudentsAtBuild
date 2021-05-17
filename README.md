@@ -36,9 +36,9 @@ Here are the sessions, speakers, slides, and videos of all Student Zone sessions
 
 ## Microsoft Learn Student Ambassadors
 
-Microsoft Student Learn Ambassadors are a global group of on-campus ambassadors who are eager to help fellow students who lead in their local tech community, and develop technical and career skills for the future. You might find yourself organizing a hackathon to solve the world’s toughest problems, mentoring fellow students, or unlocking the next great idea with your team — it’s all up to you. If you are a student at university who is actively looking to teach others and empower your community, then do sign up!
-Learn how to become a [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/).
-A video to [help guide you to apply to be a Microsoft Student Learn Ambassador](http://bit.ly/microsoftlearnstudentambassadors).
+Microsoft Learn Student Ambassadors are a global group of on-campus ambassadors who are eager to help fellow students who lead in their local tech community, and develop technical and career skills for the future. You might find yourself organizing a hackathon to solve the world’s toughest problems, mentoring fellow students, or unlocking the next great idea with your team — it’s all up to you. If you are a student at university who is actively looking to teach others and empower your community, then do sign up!
+Learn how to become a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/).
+A video to [help guide you to apply to be a Microsoft Learn Student Ambassador](http://bit.ly/microsoftlearnstudentambassadors).
 
 ## Imagine Cup
 
