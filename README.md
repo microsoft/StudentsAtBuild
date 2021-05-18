@@ -6,7 +6,7 @@ Explore this repository to find starter code for some of the projects and demos 
 
 [Microsoft Build](https://mybuild.microsoft.com/) is Microsoft's professional developer conference where, you guessed it, professional developers come 
 to confer! By that, we mean where developers come to learn about how Microsoft can better support their
-unique developer journey. There were technical sessions, opportunities to meet and talk with experts, and 
+unique developer journey. There are technical sessions, opportunities to meet and talk with experts, and 
 the chance to discover and grow a technical community.
 
 ## What is the Student Zone?
