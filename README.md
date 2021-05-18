@@ -57,11 +57,11 @@ Learn new concepts at your speed and on your schedule. Start here to develop pra
 
 ## Azure For Students 
 
-By simply verifying your student status through your school email address, and you're ready to go on Azure with $100 in credit. Build your skills in trending tech including data science, artificial intelligence (AI), machine learning, and other areas with access to professional developer tools. You can even access free learning paths and labs to take your skills to the next level. Learn more about [Azure for Students](https://aka.ms/azureforstudents).
+By simply verifying your student status through your school email address, you'll be ready to go on Azure with $100 in credit. Build your skills in trending tech including data science, artificial intelligence (AI), machine learning, and other areas with access to professional developer tools. Learn more about [Azure for Students](https://aka.ms/azureforstudents).
 
 ## Imagine Cup Jr
 
-Imagine Cup Junior is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and create an AI for Good concept that they think could make a positive impact on the world around them.  The top 3 teams (1 - 6 students per team) from each region will receive a Windows 10 device each, an Imagine Cup Junior trophy and a group mentoring session with a Microsoft Vice President.
+Imagine Cup Junior is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and encourages them to come up with ideas to solve social, cultural, and environmental issues.  The top 3 teams from each region will receive a Windows 10 device for each member, an Imagine Cup Junior trophy, and a group mentoring session with a Microsoft Vice President. Submissions are due May 21.
 
 [Learn more here](https://www.imaginecup.com/junior)!
 
@@ -82,4 +82,4 @@ Try the free [Hour of Code using MInecraft: Education Edition and MakeCode](http
 
 # Thank you from the Student Zone! 
 
-Thank you for attending the Student Zone at Build. If you would like to suggest ideas for next year at the Microsoft Build Student Zone, create an issue on this repository [with this link](https://github.com/microsoft/StudentsAtBuild/issues/new) and we'll be sure to look into your suggestions! 😊
+Thank you for attending the Student Zone at Build. If you would like to suggest ideas for next year, create an issue on this repository [with this link](https://github.com/microsoft/StudentsAtBuild/issues/new) and we'll be sure to look into your suggestions! 😊
