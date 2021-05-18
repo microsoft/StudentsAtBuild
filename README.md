@@ -41,7 +41,7 @@ We have also created a convenient [Microsoft Learn Collection](https://aka.ms/st
 
 ## Microsoft Learn Student Ambassadors
 
-The [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/) community is for students—like you--who want to use tech to solve real-world problems with like-minded peers, establish themselves as mentors and leaders in their community, and amplify their impact. Student Ambassadors get the opportunity to connect with other students around the world (from 102 countries and counting!), foster their own online communities, get training and earn certifications, and tackle practical challenges, all while building key technical and soft skills to help you succeed.  
+The [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/) community is for students—like you--who want to use tech to solve real-world problems with like-minded peers, establish themselves as mentors and leaders in their community, and amplify their impact. Student Ambassadors get the opportunity to connect with other students around the world (from 102 countries and counting!), foster their own online communities, get training and earn certifications, and tackle practical challenges, all while building key technical and soft skills to help them succeed.  
 
 ## Imagine Cup
 
