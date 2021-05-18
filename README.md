@@ -47,8 +47,6 @@ The [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.co
 
 For nearly two decades, students from around the world have participated in Microsoft’s global technology competition, the Imagine Cup, to bring their unique tech solutions to life. But the Imagine Cup is more than just a competition — you can work with friends (and make new ones!), network with professionals, gain new skills, make a difference in the world around you, and get the chance to win cash and cloud credits. Join the over 2 million students who have participated in the [Imagine Cup](https://imaginecup.microsoft.com/)!
 
-Here's a [podcast with the Program Manager of the Imagine Cup, the 2018 world champion and a finalist from 2020](https://www.youtube.com/watch?v=bf46_35E2KM).
-
 ## Learn TV
 
 [Learn TV](https://docs.microsoft.com/learn/tv?wt.mc_id=build21_githubrepo_webpage_wwl) is a 24/7 video channel where you can learn how to build solutions and use Microsoft products from the experts that built them! Learn TV is the place to find the latest digital content so you can always keep updated on the latest announcements, features, and products from Microsoft. Let us know what you think with the hashtag LearnTV.
