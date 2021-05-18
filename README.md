@@ -1,6 +1,6 @@
 # Welcome to another Student Zone at Microsoft Build 2021!
 
-This README contains resources related to sessions at the Student Zone from Microsoft Buidl 2021!
+This README contains resources related to sessions at the Student Zone from Microsoft Build 2021!
 
 ## What is Microsoft Build?
 
@@ -61,7 +61,7 @@ By simply verifying your student status through your school email address, you'l
 
 ## Imagine Cup Jr
 
-Imagine Cup Junior is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and encourages them to come up with ideas to solve social, cultural, and environmental issues.  The top 3 teams from each region will receive a Windows 10 device for each member, an Imagine Cup Junior trophy, and a group mentoring session with a Microsoft Vice President. Submissions are due May 21.
+Imagine Cup Junior is an opportunity for students aged 13 – 18 to learn about Artificial Intelligence (AI) and encourages them to come up with ideas to solve social, cultural, and environmental issues.  The top 3 teams from each region will receive a Windows 10 device for each member, an Imagine Cup Junior trophy, and a group mentoring session with a Microsoft Vice President.
 
 [Learn more here](https://www.imaginecup.com/junior)!
 
