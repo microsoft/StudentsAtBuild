@@ -47,10 +47,6 @@ The [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.co
 
 For nearly two decades, students from around the world have participated in Microsoft’s global technology competition, the Imagine Cup, to bring their unique tech solutions to life. But the Imagine Cup is more than just a competition — you can work with friends (and make new ones!), network with professionals, gain new skills, make a difference in the world around you, and get the chance to win cash and cloud credits. Join the over 2 million students who have participated in the [Imagine Cup](https://imaginecup.microsoft.com/)!
 
-## Learn TV
-
-[Learn TV](https://docs.microsoft.com/learn/tv?wt.mc_id=build21_githubrepo_webpage_wwl) is a 24/7 video channel where you can learn how to build solutions and use Microsoft products from the experts that built them! Learn TV is the place to find the latest digital content so you can always keep updated on the latest announcements, features, and products from Microsoft. Let us know what you think with the hashtag LearnTV.
-
 ## Microsoft Learn for Students
 
 Learn new concepts at your speed and on your schedule with this curated collection of Microsoft Learn modules created just for students. Start here to develop practical skills through fun, interactive modules and paths. Plus, educators can get access to Microsoft classroom materials and curriculum. Check out all of the Microsoft Learn [paths and resources](http://aka.ms/learnforstudents).
@@ -78,6 +74,10 @@ If you have an Office 365 Education account, you can also use that to log in to 
 - Check out these [resources for remote learning](https://education.minecraft.net/distance-learning) with Minecraft, including a Minecraft 101 guide for parents and at-home learning activities.
 - Explore the [Education Collection](https://www.minecraft.net/en-us/marketplace/education) in the Minecraft Marketplace for awesome new worlds.
 - [Salman](https://twitter.com/salmanmkc) is also working on Minecraft: Education Edition content with MakeCode and will be updating the playlist [here](https://www.youtube.com/watch?v=8OJm9Xtu_mU&list=PLAqOUDXL6eC6Ca9elklRPc_doDXlNwjNj).
+
+## Learn TV
+
+[Learn TV](https://docs.microsoft.com/learn/tv?wt.mc_id=build21_githubrepo_webpage_wwl) is a 24/7 video channel where you can learn how to build solutions and use Microsoft products from the experts that built them! Learn TV is the place to find the latest digital content so you can always keep updated on the latest announcements, features, and products from Microsoft. Let us know what you think with the hashtag LearnTV.
 
 # Thank you from the Student Zone! 
 
