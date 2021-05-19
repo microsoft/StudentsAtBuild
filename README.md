@@ -73,7 +73,6 @@ If you have an Office 365 Education account, you can also use that to log in to 
 	
 - Check out these [resources for remote learning](https://education.minecraft.net/distance-learning) with Minecraft, including a Minecraft 101 guide for parents and at-home learning activities.
 - Explore the [Education Collection](https://www.minecraft.net/en-us/marketplace/education) in the Minecraft Marketplace for awesome new worlds.
-- [Salman](https://twitter.com/salmanmkc) is also working on Minecraft: Education Edition content with MakeCode and will be updating the playlist [here](https://www.youtube.com/watch?v=8OJm9Xtu_mU&list=PLAqOUDXL6eC6Ca9elklRPc_doDXlNwjNj).
 
 ## Learn TV
 
