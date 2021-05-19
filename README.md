@@ -65,20 +65,19 @@ Imagine Cup Junior is an opportunity for students aged 13 – 18 to learn about 
 
 [Learn more here](https://www.imaginecup.com/junior)!
 
-## Try out Minecraft: Education Edition with MakeCode
+## Learn to Code with Minecraft
 
-Try the free [Hour of Code using MInecraft: Education Edition and MakeCode](https://education.minecraft.net/hour-of-code-2020) today! If you have an 365 Education account, you can also use that to log in to the full version of [Minecraft: Education Edition](https://education.minecraft.net/).
+Do a free [Hour of Code using Minecraft and MakeCode](https://education.minecraft.net/hour-of-code-2020) today! 
 
-- You can find more details on [Minecraft: Education Edition](https://education.minecraft.net/)
-- Install [Minecraft: Education Edition](https://education.minecraft.net/get-started/)
-  
-## Educational Content on Minecraft
+If you have an Office 365 Education account, you can also use that to log in to the full version of [Minecraft: Education Edition](https://education.minecraft.net/) to access hundreds of cool worlds, challenges, and more. Available for Mac, iPad, Windows and Chromebook.
+- Explore fun [lessons and challenges](https://education.minecraft.net/class-resources/lessons) in history, art, STEM, social justice, and more
+- Download a [free trial here](https://education.minecraft.net/get-started/)
 
-[Minecraft](https://www.minecraft.net/) has released a series of free educational sessions that parents can download to help children learn at home during COVID-19.
-
-[Minecraft Marketplace](https://www.minecraft.net/marketplace), which features items and add-ons that people can use in the popular block-building game, has an Education section.
-
-[Salman](https://twitter.com/salmanmkc) is also working on Minecraft: Education Edition content with MakeCode and will be updating the playlist [here](https://www.youtube.com/watch?v=8OJm9Xtu_mU&list=PLAqOUDXL6eC6Ca9elklRPc_doDXlNwjNj).
+###  More Amazing Minecraft Worlds
+	
+- Check out these [resources for remote learning](https://education.minecraft.net/distance-learning) with Minecraft, including a Minecraft 101 guide for parents and at-home learning activities.
+- Explore the [Education Collection](https://www.minecraft.net/en-us/marketplace/education) in the Minecraft Marketplace for awesome new worlds.
+- [Salman](https://twitter.com/salmanmkc) is also working on Minecraft: Education Edition content with MakeCode and will be updating the playlist [here](https://www.youtube.com/watch?v=8OJm9Xtu_mU&list=PLAqOUDXL6eC6Ca9elklRPc_doDXlNwjNj).
 
 # Thank you from the Student Zone! 
 
