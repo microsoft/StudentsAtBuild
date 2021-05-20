@@ -1,20 +1,6 @@
-# Welcome to another Student Zone at Microsoft Build 2021!
+# Welcome to the Student Zone at Microsoft Build 2021!
 
 This README contains resources related to sessions at the Student Zone from Microsoft Build 2021!
-
-## What is Microsoft Build?
-
-[Microsoft Build](https://mybuild.microsoft.com/) is Microsoft's professional developer conference where, you guessed it, professional developers come 
-to confer! By that, we mean where developers come to learn about how Microsoft can better support their
-unique developer journey. There are technical sessions, opportunities to meet and talk with experts, and 
-the chance to discover and grow a technical community.
-
-## What is the Student Zone?
-
-Each year at Microsoft Build we create a session track specifically aimed at student developers: the [Student Zone](https://mybuild.microsoft.com/sessions?t=%257B%2522from%2522%253A%25222021-05-25T00%253A00%253A00-07%253A00%2522%252C%2522to%2522%253A%25222021-05-27T23%253A59%253A00-07%253A00%2522%257D&f=%255B%257B%2522name%2522%253A%2522Student%2520Zone%2522%252C%2522facetName%2522%253A%2522topic%2522%257D%255D). The target age
-for our **student** developers is 14-21 years old, though that is really just there to guide us in scoping 
-the content we create for you. So if you're outside of these ages, you still might find this content 
-useful for your coding journey! The Student Zone also may be perfect for you if you're a career switcher or a beginner!
 
 ## How can I find the resources mentioned in the Student Zone sessions?
 
@@ -25,7 +11,7 @@ We have also created a convenient [Microsoft Learn Collection](https://aka.ms/st
 | Time (PT) | Title and Link to Watch | Speaker(s) | Host(s) | Resources |
 |---------------|-------|------------|---------|-----------|
 | May 25th | | | | |
-| 9:30 AM  | Welcome to the Student Zone at Microsoft Build! ([Watch Here](https://aka.ms/StudentZoneWelcome)) | [Nana Aba Turkson](https://twitter.com/nanaabaturkson) and [Louanne Murphy](https://twitter.com/Labhoaine) | [Chloe Condon](https://twitter.com/ChloeCondon) and [Morgan Bell](https://twitter.com/livelovegeek) | [Microsoft Learn Collection](https://aka.ms/studentzone-3)</br></br>[Student Zone Sessions](https://mybuild.microsoft.com/sessions?t=%257B%2522from%2522%253A%25222021-05-25T00%253A00%253A00-07%253A00%2522%252C%2522to%2522%253A%25222021-05-27T23%253A59%253A00-07%253A00%2522%257D&f=%255B%257B%2522name%2522%253A%2522Student%2520Zone%2522%252C%2522facetName%2522%253A%2522topic%2522%257D%255D) |                    
+| 9:30 AM  | Welcome to the Student Zone at Microsoft Build! ([Watch Here](https://aka.ms/StudentZoneWelcome)) | [Nana Aba Turkson](https://twitter.com/nanaabaturkson) and [Louanne Murphy](https://twitter.com/Labhoaine) | [Chloe Condon](https://twitter.com/ChloeCondon) and [Morgan Bell](https://twitter.com/livelovegeek) | [Microsoft Learn Collection](https://aka.ms/studentzone-3)</br></br>[Student Zone Sessions](https://aka.ms/StudentZone2021) |                    
 | 10:30 AM | Core tools for a dev career: an introduction to Visual Studio Code and GitHub ([Watch Here](https://aka.ms/StudentZoneDevTools)) | [Meaghan Lewis](https://twitter.com/iammeaghanlewis) and [Sana Ajani](https://twitter.com/sana_ajani) |[Locksley Kolakowski](https://twitter.com/locksleylk) | [Introduction to GitHub Learn Path](https://aka.ms/studentzone-CON068-1)</br></br>[Learn to code with Visual Studio Code](https://aka.ms/studentzone-CON068-2)</br></br>[Get Visual Studio Code](https://aka.ms/studentzone-CON068-3) |
 | 2:30 PM | Get started with popular programming languages: Intro to Python and C# ([Watch Here](https://mybuild.microsoft.com/sessions/5e15fc46-1661-4344-b618-e12306129c3b?source=sessions)) | [Christopher Harrison](https://twitter.com/GeekTrainer) and [James Montemagno](https://twitter.com/jamesmontemagno) | [Brian Clark](https://twitter.com/_clarkio) | [Classify space rocks by using Python and artificial intelligence Learn Path](https://aka.ms/studentzone-CON069-1)</br></br>[Take your first steps with Python Learn Path](https://aka.ms/studentzone-CON069-2)</br></br>[Learn C# Learn Collection](https://aka.ms/studentzone-CON069-3) 
  May 26th | | | | |
@@ -56,12 +42,6 @@ Learn new concepts at your speed and on your schedule with this curated collecti
 ## Azure For Students 
 
 By simply verifying your student status through your school email address, you'll be ready to go on Azure with $100 in credit. Build your skills in trending tech including data science, artificial intelligence (AI), machine learning, and other areas with access to professional developer tools. Learn more about [Azure for Students](https://aka.ms/azureforstudents).
-
-## Imagine Cup Jr
-
-Imagine Cup Junior is an opportunity for students aged 13 – 18 to learn about technology and how it can be used to positively change the world. This year’s competition is focused on Artificial Intelligence (AI) and encourages them to come up with ideas to solve social, cultural, and environmental issues The top 3 teams from each region will receive a Windows 10 device for each member, an Imagine Cup Junior trophy, and a group mentoring session with a Microsoft Vice President. 
-
-[Learn more here](https://www.imaginecup.com/junior)!
 
 ## Learn to Code with Minecraft
 
