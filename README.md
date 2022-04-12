@@ -1,3 +1,7 @@
+-----
+🚨 Note: this repo has been archived, but you can visit current conference activity at our [Academic Content repo](https://github.com/microsoft/AcademicContent)
+-----
+
 # Welcome to the Student Zone at Microsoft Build 2021!
 
 This README contains resources related to sessions at the Student Zone from Microsoft Build 2021!
