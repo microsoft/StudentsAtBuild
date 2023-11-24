@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/instafluff/MSBuildSocialShareboard#readme",
   "dependencies": {
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.3.2",
     "webwebweb": "^1.3.2"
   }
 }
